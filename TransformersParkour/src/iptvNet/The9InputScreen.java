@@ -399,7 +399,7 @@ public class The9InputScreen {
 		g.setColor(0xffff00);
 		
 		int w = 150;
-        int w1 = 255;
+        int w1 = 215;
 		int h = 60;
 		if(selectIndexUD==0){
             g.drawRect((SCREEN_W>>1)-112-1, startY+43-h/2-1, w+2+75, h+2);
@@ -439,7 +439,7 @@ public class The9InputScreen {
         g.drawImage(img[6], (SCREEN_W>>1)+120, startY+100, Graphics.TOP|Graphics.HCENTER);
 		g.setColor(0xffff00);
 		int w = 150;
-        int w1 = 255;
+        int w1 = 215;
 		int h = 60;
 		if(selectIndexUD==0){
             g.drawRect((SCREEN_W>>1)-60-1, startY+43-h/2-1, w+2+75, h+2);

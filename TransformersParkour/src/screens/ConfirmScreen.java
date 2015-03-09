@@ -145,9 +145,9 @@ public class ConfirmScreen extends Screen {
         } else if (confirmStage == 1) {
             if(returnFromThe9){
                 g.setColor(0x000000);
-                g.drawImage(successImg, 335, 230, Graphics.HCENTER|Graphics.BOTTOM);
-                g.drawString(Globe.needMoreToken+"", 450, 165, Graphics.TOP|Graphics.LEFT);
-                g.drawString(Globe.needMoreToken+"", 350, 210, Graphics.TOP|Graphics.LEFT);
+                g.drawImage(successImg, 325, 230, Graphics.HCENTER|Graphics.BOTTOM);
+                g.drawString(Globe.needMoreToken+"", 440, 165, Graphics.TOP|Graphics.LEFT);
+                g.drawString(Globe.needMoreToken+"", 340, 210, Graphics.TOP|Graphics.LEFT);
                 g.drawImage(confirmImg, 315, 400, Graphics.HCENTER|Graphics.BOTTOM);
             }else {
                 g.drawString("消费成功！", 260, 180 + font_height, Graphics.TOP|Graphics.LEFT);
