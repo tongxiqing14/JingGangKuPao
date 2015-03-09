@@ -1,3 +1,4 @@
+<%@ page import="iptvNet.NetHander" %>
 <%@ page contentType="text/html; charset=gb2312" language="java"%>
 <%
     String servletPath = request.getServletPath();
@@ -38,6 +39,19 @@
         session.setAttribute("ProductID",ProductID);
         session.setAttribute("ReturnURL",ReturnURL);
         session.setAttribute("UserToken",UserToken);
+    }
+
+    NetHander netHander = new NetHander(ServerURL, UserID, ProductID, adAccount, UserToken);
+
+    if(netHander.getGameData(-1)==null||!netHander.getGameData(-1).equals("init")){
+        netHander.saveGameData("init", -1);
+        netHander.saveGameData("{\"heroChongTimeLV\":1,\"heroChongTime\":60,\"heroInvincibleTime\":60,\"heroSuckStarLV\":1,\"heroXiangYunLV\":1,\"isGot\":true,\"heroInvincibleTimeLV\":1,\"heroSuckStar\":5,\"heroXiangYun\":80}", 0);
+        netHander.saveGameData("{\"heroChongTimeLV\":1,\"heroChongTime\":90,\"heroInvincibleTime\":85,\"heroSuckStarLV\":1,\"heroXiangYunLV\":1,\"isGot\":false,\"heroInvincibleTimeLV\":1,\"heroSuckStar\":5,\"heroXiangYun\":90}", 1);
+        netHander.saveGameData("{\"heroChongTimeLV\":1,\"heroChongTime\":85,\"heroInvincibleTime\":95,\"heroSuckStarLV\":1,\"heroXiangYunLV\":1,\"isGot\":false,\"heroInvincibleTimeLV\":1,\"heroSuckStar\":5,\"heroXiangYun\":85}", 2);
+        netHander.saveGameData("{\"heroChongTimeLV\":1,\"heroChongTime\":95,\"heroInvincibleTime\":100,\"heroSuckStarLV\":1,\"heroXiangYunLV\":1,\"isGot\":false,\"heroInvincibleTimeLV\":1,\"heroSuckStar\":5,\"heroXiangYun\":80}", 3);
+        netHander.saveGameData("{\"maxStage\":1}", 10);
+        netHander.saveGameData("{\"petinfo\":[false,false,false,false,false,false,false,false]}", 33);
+        netHander.saveGameData("{\"petinfo\":[false,false,false,false,false,false,false,false]}", 34);
     }
 
 %>
