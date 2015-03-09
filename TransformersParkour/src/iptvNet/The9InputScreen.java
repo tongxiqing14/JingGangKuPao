@@ -395,15 +395,15 @@ public class The9InputScreen {
 		}
 		g.drawString(temp, SCREEN_W>>1, startY+68,  Graphics.BOTTOM|Graphics.HCENTER);
 		g.drawImage(img[4], (SCREEN_W>>1)-100, startY+100, Graphics.TOP|Graphics.HCENTER);
-        g.drawImage(img[6], (SCREEN_W>>1)+150, startY+100, Graphics.TOP|Graphics.HCENTER);
+        g.drawImage(img[6], (SCREEN_W>>1)+120, startY+100, Graphics.TOP|Graphics.HCENTER);
 		g.setColor(0xffff00);
 		
 		int w = 150;
 		int h = 60;
 		if(selectIndexUD==0){
-			g.drawRect((SCREEN_W>>1)-112-1, startY+43-h/2-1, w+2+75, h+2);
-			g.drawRect((SCREEN_W>>1)-112+1, startY+43-h/2+1, w-2+75, h-2);
-			g.drawRect((SCREEN_W>>1)-112, startY+43-h/2, w+75, h);
+			g.drawRect((SCREEN_W>>1)-70-1, startY+43-h/2-1, w+2+165, h+2);
+			g.drawRect((SCREEN_W>>1)-70+1, startY+43-h/2+1, w-2+165, h-2);
+			g.drawRect((SCREEN_W>>1)-70, startY+43-h/2, w+165, h);
 		}else{
 			g.drawRect((SCREEN_W>>1)-120-w/2+(selectIndex*240)-1, startY+122-h/2-1, w+2, h+2);
 			g.drawRect((SCREEN_W>>1)-120-w/2+(selectIndex*240)+1, startY+122-h/2+1, w-2, h-2);
@@ -428,14 +428,14 @@ public class The9InputScreen {
 			g.drawString(""+inputString,  (SCREEN_W>>1)-50, startY+62, Graphics.BOTTOM|Graphics.LEFT);
 		}
 		g.drawImage(img[4], (SCREEN_W>>1)-100, startY+100, Graphics.TOP|Graphics.HCENTER);
-        g.drawImage(img[6], (SCREEN_W>>1)+150, startY+100, Graphics.TOP|Graphics.HCENTER);
+        g.drawImage(img[6], (SCREEN_W>>1)+120, startY+100, Graphics.TOP|Graphics.HCENTER);
 		g.setColor(0xffff00);
 		int w = 150;
 		int h = 60;
 		if(selectIndexUD==0){
-			g.drawRect((SCREEN_W>>1)-60-1, startY+43-h/2-1, w+2+75, h+2);
-			g.drawRect((SCREEN_W>>1)-60+1, startY+43-h/2+1, w-2+75, h-2);
-			g.drawRect((SCREEN_W>>1)-60, startY+43-h/2, w+75, h);
+			g.drawRect((SCREEN_W>>1)-70-1, startY+43-h/2-1, w+2+165, h+2);
+			g.drawRect((SCREEN_W>>1)-70+1, startY+43-h/2+1, w-2+165, h-2);
+			g.drawRect((SCREEN_W>>1)-70, startY+43-h/2, w+165, h);
 		}else{
 			g.drawRect((SCREEN_W>>1)-120-w/2+(selectIndex*240)-1, startY+122-h/2-1, w+2, h+2);
 			g.drawRect((SCREEN_W>>1)-120-w/2+(selectIndex*240)+1, startY+122-h/2+1, w-2, h-2);
