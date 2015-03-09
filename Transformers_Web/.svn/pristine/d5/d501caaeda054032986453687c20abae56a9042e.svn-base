@@ -1,0 +1,126 @@
+stageIndex = [{"enemyName":"right_horseImg","type":"1"," hpNumber":"10","fight_number":"0.2","dead":"false"},\
+{"enemyName":"right_batImg","type":"2"," hpNumber":"10","fight_number":"0.2","dead":"false"},\
+ {"enemyName":"renwu_Img","type":"0"," hpNumber":"10","fight_number":"0.2","dead":"false"},\
+ {"enemyName":"right_batImg","type":"1"," hpNumber":"13.5","fight_number":"0.4","dead":"false"},\
+{"enemyName":"right_birdImg","type":"2","hpNumber":"13.5","fight_number":"0.4","dead":"false"},\
+{"enemyName":"atack_Img","type":"0","hpNumber":"13.5","fight_number":"0.4","dead":"false"},\
+{"enemyName":"right_birdImg","type":"1"," hpNumber":"15.0","fight_number":"0.6","dead":"false"},\
+{"enemyName":"right_clownImg","type":"2"," hpNumber":"15.0","fight_number":"0.6","dead":"false"},\
+{"enemyName":"renwu_Img","type":"0"," hpNumber":"15.0","fight_number":"0.6","dead":"false"},\
+{"enemyName":"right_batImg","type":"1"," hpNumber":"16.5","fight_number":"0.8","dead":"false"},\
+{"enemyName":"right_clownImg","type":"2"," hpNumber":"16.5","fight_number":"0.8","dead":"false"},\
+{"enemyName":"atack_Img","type":"0"," hpNumber":"16.5","fight_number":"0.8","dead":"false"}\
+ {"enemyName":"right_birdImg","type":"1"," hpNumber":"18.0","fight_number":"1.0","dead":"false"},\
+ {"enemyName":"right_clownImg","type":"2"," hpNumber":"18.0","fight_number":"1.0","dead":"false"},\
+ {"enemyName":"atack_Img","type":"0"," hpNumber":"18.0","fight_number":"1.0","dead":"false"}\
+  {"enemyName":"right_batImg","type":"1"," hpNumber":"19.5","fight_number":"1.2","dead":"false"},\
+   {"enemyName":"right_frogfishImg","type":"2"," hpNumber":"19.5","fight_number":"1.2","dead":"false"},\
+   {"enemyName":"green_monster_Img","type":"0"," hpNumber":"19.5","fight_number":"1.2","dead":"false"}\
+   {"enemyName":"right_birdImg","type":"1"," hpNumber":"21.0","fight_number":"1.5","dead":"false"},\
+     {"enemyName":"right_frogfishImg","type":"2"," hpNumber":"21.0","fight_number":"1.5","dead":"false"},\
+     {"enemyName":"green_monster_Img","type":"0"," hpNumber":"21.0","fight_number":"1.5","dead":"false"}\
+   {"enemyName":"right_birdImg","type":"1"," hpNumber":"22.5","fight_number":"1.7","dead":"false"},\
+       {"enemyName":"right_frogfishImg","type":"2"," hpNumber":"22.5","fight_number":"1.7","dead":"false"},\
+       {"enemyName":"green_monster_Img","type":"0"," hpNumber":"22.5","fight_number":"1.7","dead":"false"}\
+   {"enemyName":"right_horseImg","type":"1"," hpNumber":"24.0","fight_number":"1.9","dead":"false"},\
+         {"enemyName":"right_frogfishImg","type":"2"," hpNumber":"24.0","fight_number":"1.9","dead":"false"},\
+         {"enemyName":"green_monster_Img","type":"0"," hpNumber":"24.0","fight_number":"1.9","dead":"false"}\
+   {"enemyName":"right_horseImg","type":"1"," hpNumber":"24.0","fight_number":"1.9","dead":"false"},\
+           {"enemyName":"right_frogfishImg","type":"2"," hpNumber":"24.0","fight_number":"1.9","dead":"false"},\
+           {"enemyName":"green_monster_Img","type":"0"," hpNumber":"24.0","fight_number":"1.9","dead":"false"}\
+    {"enemyName":"right_clownImg","type":"1"," hpNumber":"25.5","fight_number":"2.1","dead":"false"},\
+             {"enemyName":"right_frogfishImg","type":"2"," hpNumber":"25.5","fight_number":"2.1","dead":"false"},\
+             {"enemyName":"hero_right_blueImg","type":"0"," hpNumber":"25.5","fight_number":"2.1","dead":"false"}\
+   {"enemyName":"right_batImg","type":"1"," hpNumber":"27.0","fight_number":"2.3","dead":"false"},\
+               {"enemyName":"right_mouseImg","type":"2"," hpNumber":"27.0","fight_number":"2.3","dead":"false"},\
+               {"enemyName":"king_monster_Img","type":"0"," hpNumber":"27.0","fight_number":"2.3","dead":"false"}\
+    {"enemyName":"right_birdImg","type":"1"," hpNumber":"28.5","fight_number":"2.5","dead":"false"},\
+                 {"enemyName":"right_mouseImg","type":"2"," hpNumber":"28.5","fight_number":"2.5","dead":"false"},\
+                 {"enemyName":"king_monster_Img","type":"0"," hpNumber":"28.5","fight_number":"2.5","dead":"false"}\
+    {"enemyName":"right_birdImg","type":"1"," hpNumber":"30.0","fight_number":"2.7","dead":"false"},\
+                   {"enemyName":"right_mouseImg","type":"2"," hpNumber":"30.0","fight_number":"2.7","dead":"false"},\
+                   {"enemyName":"king_monster_Img","type":"0"," hpNumber":"30.0","fight_number":"2.7","dead":"false"}\
+   {"enemyName":"right_clownImg","type":"1"," hpNumber":"31.5","fight_number":"2.9","dead":"false"},\
+                        {"enemyName":"right_mouseImg","type":"2"," hpNumber":"31.5","fight_number":"2.9","dead":"false"},\
+                        {"enemyName":"white_wolf_Img","type":"0"," hpNumber":"31.5","fight_number":"2.9","dead":"false"} \
+  {"enemyName":"right_frogfishImg","type":"1"," hpNumber":"33.0","fight_number":"3.1","dead":"false"},\
+     {"enemyName":"right_mouseImg","type":"2"," hpNumber":"33.0","fight_number":"3.1","dead":"false"},\
+     {"enemyName":"white_wolf_Img","type":"0"," hpNumber":"33.0","fight_number":"3.1","dead":"false"}\
+  {"enemyName":"right_horseImg","type":"1"," hpNumber":"34.5","fight_number":"3.3","dead":"false"},\
+       {"enemyName":"right_mouseImg","type":"2"," hpNumber":"34.5","fight_number":"3.3","dead":"false"},\
+       {"enemyName":"hammer_Img","type":"0"," hpNumber":"34.5","fight_number":"3.3","dead":"false"} \
+    {"enemyName":"right_batImg","type":"1"," hpNumber":"35.0","fight_number":"3.5","dead":"false"},\
+         {"enemyName":"right_rabbitImg","type":"2"," hpNumber":"35.0","fight_number":"3.5","dead":"false"},\
+         {"enemyName":"hammer_Img","type":"0"," hpNumber":"35.0","fight_number":"3.5","dead":"false"}\
+  {"enemyName":"right_birdImg","type":"1"," hpNumber":"36.5","fight_number":"3.5","dead":"false"},\
+           {"enemyName":"right_rabbitImg","type":"2"," hpNumber":"36.5","fight_number":"3.5","dead":"false"},\
+           {"enemyName":"hammer_Img","type":"0"," hpNumber":"36.5","fight_number":"3.5","dead":"false"}\
+    {"enemyName":"right_clownImg","type":"1"," hpNumber":"38.0","fight_number":"3.9","dead":"false"},\
+             {"enemyName":"right_rabbitImg","type":"2"," hpNumber":"38.0","fight_number":"3.9","dead":"false"},\
+             {"enemyName":"hammer_Img","type":"0"," hpNumber":"38.0","fight_number":"3.9","dead":"false"}\
+    {"enemyName":"right_frogfishImg","type":"1"," hpNumber":"39.5","fight_number":"4.1","dead":"false"},\
+               {"enemyName":"right_rabbitImg","type":"2"," hpNumber":"39.5","fight_number":"4.1","dead":"false"},\
+               {"enemyName":"hero_right_greenImg","type":"0"," hpNumber":"39.5","fight_number":"4.1","dead":"false"}\
+  {"enemyName":"right_mouseImg","type":"1"," hpNumber":"41.0","fight_number":"4.3","dead":"false"},\
+                 {"enemyName":"right_rabbitImg","type":"2"," hpNumber":"41.0","fight_number":"4.3","dead":"false"},\
+                 {"enemyName":"hammer_Img","type":"0"," hpNumber":"41.0","fight_number":"4.3","dead":"false"}\
+    {"enemyName":"right_horseImg","type":"1"," hpNumber":"43.5","fight_number":"4.5","dead":"false"},\
+                   {"enemyName":"right_tigerImg","type":"2"," hpNumber":"43.5","fight_number":"4.5","dead":"false"},\
+                   {"enemyName":"blue2_monster_Img","type":"0"," hpNumber":"43.5","fight_number":"4.5","dead":"false"}\
+  {"enemyName":"right_batImg","type":"1"," hpNumber":"45.0","fight_number":"4.7","dead":"false"},\
+                     {"enemyName":"right_tigerImg","type":"2"," hpNumber":"45.0","fight_number":"4.7","dead":"false"},\
+                     {"enemyName":"blue2_monster_Img","type":"0"," hpNumber":"45.0","fight_number":"4.7","dead":"false"}\
+   {"enemyName":"right_birdImg","type":"1"," hpNumber":"46.5","fight_number":"4.7","dead":"false"},\
+                       {"enemyName":"right_tigerImg","type":"2"," hpNumber":"46.5","fight_number":"4.7","dead":"false"},\
+                       {"enemyName":"blue2_monster_Img","type":"0"," hpNumber":"46.5","fight_number":"4.7","dead":"false"}\
+     {"enemyName":"right_birdImg","type":"1"," hpNumber":"48.0","fight_number":"5.1","dead":"false"},\
+                         {"enemyName":"right_tigerImg","type":"2"," hpNumber":"48.0","fight_number":"5.1","dead":"false"},\
+                         {"enemyName":"blue2_monster_Img","type":"0"," hpNumber":"48.0","fight_number":"5.1","dead":"false"}\
+       {"enemyName":"right_clownImg","type":"1"," hpNumber":"49.5","fight_number":"5.1","dead":"false"},\
+                           {"enemyName":"right_tigerImg","type":"2"," hpNumber":"49.5","fight_number":"5.1","dead":"false"},\
+                           {"enemyName":"blue2_monster_Img","type":"0"," hpNumber":"49.5","fight_number":"5.1","dead":"false"}\
+   {"enemyName":"right_clownImg","type":"1"," hpNumber":"51.0","fight_number":"5.5","dead":"false"},\
+                             {"enemyName":" right_tigerImg","type":"2"," hpNumber":"51.0","fight_number":"5.5","dead":"false"},\
+                             {"enemyName":"blue2_monster_Img","type":"0"," hpNumber":"51.0","fight_number":"5.5","dead":"false"}\
+     {"enemyName":"right_frogfishImg","type":"1"," hpNumber":"52.5","fight_number":"5.5","dead":"false"},\
+                               {"enemyName":" right_tigerImg","type":"2"," hpNumber":"52.5","fight_number":"5.5","dead":"false"},\
+                               {"enemyName":"blue2_monster_Img","type":"0"," hpNumber":"52.5","fight_number":"5.5","dead":"false"}\
+    {"enemyName":"right_mouseImg","type":"1"," hpNumber":"54.0","fight_number":"5.9","dead":"false"},\
+                                 {"enemyName":" right_tigerImg","type":"2"," hpNumber":"54.0","fight_number":"5.9","dead":"false"},\
+                                 {"enemyName":"blue2_monster_Img","type":"0"," hpNumber":"54.0","fight_number":"5.9","dead":"false"}\
+   {"enemyName":"right_rabbitImg","type":"1"," hpNumber":"55.5","fight_number":"6.1","dead":"false"},\
+                                   {"enemyName":" right_tigerImg","type":"2"," hpNumber":"55.5","fight_number":"6.1","dead":"false"},\
+                                   {"enemyName":"hero_right_rightImg","type":"0"," hpNumber":"55.5","fight_number":"6.1","dead":"false"}\
+  {"enemyName":"right_rabbitImg","type":"1"," hpNumber":"57.0","fight_number":"6.3","dead":"false"},\
+                                     {"enemyName":" right_tortoiseImg","type":"2"," hpNumber":"57.0","fight_number":"6.3","dead":"false"},\
+                                     {"enemyName":"red_wolf_Img","type":"0"," hpNumber":"57.0","fight_number":"6.3","dead":"false"}\
+    {"enemyName":"right_mouseImg","type":"1"," hpNumber":"58.5","fight_number":"6.3","dead":"false"},\
+                                       {"enemyName":" right_tigerImg","type":"2"," hpNumber":"58.5","fight_number":"6.3","dead":"false"},\
+                                       {"enemyName":"blue_bear_Img","type":"0"," hpNumber":"58.5","fight_number":"6.3","dead":"false"}\
+   {"enemyName":"right_rabbitImg","type":"1"," hpNumber":"60.0","fight_number":"6.7","dead":"false"},\
+                                         {"enemyName":"right_tortoiseImg","type":"2"," hpNumber":"60.0","fight_number":"6.7","dead":"false"},\
+                                         {"enemyName":"yellow_king_Img","type":"0"," hpNumber":"60.0","fight_number":"6.7","dead":"false"}\
+     {"enemyName":"right_tigerImg","type":"1"," hpNumber":"61.5","fight_number":"7.0","dead":"false"},\
+                                           {"enemyName":"right_tortoiseImg","type":"2"," hpNumber":"61.5","fight_number":"7.0","dead":"false"},\
+                                           {"enemyName":"blue_bear_Img","type":"0"," hpNumber":"61.5","fight_number":"7.0","dead":"false"}\
+       {"enemyName":"blue_bear_Img","type":"1"," hpNumber":"63.0","fight_number":"7.3","dead":"false"},\
+                                             {"enemyName":"right_rabbitImg","type":"2"," hpNumber":"63.0","fight_number":"7.3","dead":"false"},\
+                                             {"enemyName":"hero_right_LredImg","type":"0"," hpNumber":"63.0","fight_number":"7.3","dead":"false"}\
+     {"enemyName":"right_rabbitImg","type":"1"," hpNumber":"64.5","fight_number":"7.4","dead":"false"},\
+                                               {"enemyName":"right_rabbitImg","type":"2"," hpNumber":"64.5","fight_number":"7.4","dead":"false"},\
+                                               {"enemyName":"yellow_king_Img","type":"0"," hpNumber":"64.5","fight_number":"7.4","dead":"false"}\
+       {"enemyName":"right_mouseImg","type":"1"," hpNumber":"66.0","fight_number":"7.7","dead":"false"},\
+                                                 {"enemyName":"right_tigerImg","type":"2"," hpNumber":"66.0","fight_number":"7.7","dead":"false"},\
+                                                 {"enemyName":"yellow_king_Img","type":"0"," hpNumber":"66.0","fight_number":"7.7","dead":"false"}\
+      {"enemyName":"right_tigerImg","type":"1"," hpNumber":"67.5","fight_number":"8.0","dead":"false"},\
+                                                   {"enemyName":"right_tortoiseImg","type":"2"," hpNumber":"67.5","fight_number":"8.0","dead":"false"},\
+                                                   {"enemyName":"gun_king_Img","type":"0"," hpNumber":"67.5","fight_number":"8.0","dead":"false"}\
+        {"enemyName":"right_rabbitImg","type":"1"," hpNumber":"68.0","fight_number":"8.3","dead":"false"},\
+                                                     {"enemyName":"right_tigerImg","type":"2"," hpNumber":"68.0","fight_number":"8.3","dead":"false"},\
+                                                     {"enemyName":"blue_monster_Img ","type":"0"," hpNumber":"68.0","fight_number":"8.3","dead":"false"}\
+          {"enemyName":"right_tigerImg","type":"1"," hpNumber":"69.5","fight_number":"8.6","dead":"false"},\
+                                                       {"enemyName":"right_tortoiseImg","type":"2"," hpNumber":"69.5","fight_number":"8.6","dead":"false"},\
+                                                       {"enemyName":"blue_monster_Img ","type":"0"," hpNumber":"69.5","fight_number":"8.6","dead":"false"}\
+            {"enemyName":"blue_monster_Img","type":"1"," hpNumber":"71.0","fight_number":"8.8","dead":"false"},\
+                                                         {"enemyName":"right_tortoiseImg","type":"2"," hpNumber":"71.0","fight_number":"8.8","dead":"false"},\
+                                                         {"enemyName":"hero_right_LyellowImg ","type":"0"," hpNumber":"71.0","fight_number":"8.8","dead":"false"}]

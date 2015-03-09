@@ -1,0 +1,318 @@
+package screens;
+
+import javax.microedition.lcdui.Graphics;
+import javax.microedition.lcdui.Image;
+
+
+import Entry.LWGameCanvas;
+
+import common.GameVariables;
+import common.Globe;
+import common.Screen;
+import elements.Hero;
+import motion.ResourceLoader;
+import motion.studio.MSimpleAnimationPlayer;
+import motion.studio.MSpriteData;
+import motion.studio.MSpriteLoader;
+
+public class MFairyCastleScreen extends Screen {
+	
+//	public Image commonImage;
+	public Image castleBGImage;
+//	public Image[] trainingButton;
+	public Image[] arrowImage;
+//    public Image loadingBarImage;
+	public static int selectIndex = 4;
+	public static int heroIndex = 0;
+//	public int heroIndex1 = 0;
+//	private String[][] infoString;
+    String[] lvDesString1;
+    String[] lvDesString2;
+    String[] lvDesString3;
+	private int[] heroInfo = new int[4];
+	private int heroCount = 0;
+	private Screen fromScreen;
+    private Image[] okImage;
+    private boolean initFlag;
+
+    public  MSpriteData[] animationData;
+    public  MSpriteData arrowAnimationData;
+    public  MSpriteData skillAnimationData;
+
+    public  int num =0;
+    public int countNum =0;
+
+    private Image[] nameImgs;
+
+	public MFairyCastleScreen(int screenId, Screen fromScreen) {
+		super(screenId);
+		this.fromScreen = fromScreen;
+		initFlag = true;
+        animationData = new MSpriteData[4];
+
+//        heroIndex1 = heroInfo[GameVariables.heroIndex];
+
+        if(this.fromScreen.getClass().equals(SelectingHeroScreen.class)||this.fromScreen.getClass().equals(SelectingPetScreen.class)){
+            selectIndex=4;
+        }else {
+            selectIndex=0;
+        }
+
+        try {
+            for(int i=0; i<animationData.length; i++){
+                switch (i){
+                    case 0:
+                        animationData[i] = MSpriteLoader.loadMSprite("/bee/bee.anu", true, ResourceLoader.getInstance());
+                        break;
+                    case 1:
+                        animationData[i] = MSpriteLoader.loadMSprite("/cache/cache.anu",true,ResourceLoader.getInstance());
+                        break;
+                    case 2:
+                        animationData[i] = MSpriteLoader.loadMSprite("/paoche/paoche.anu",true,ResourceLoader.getInstance());
+                        break;
+                    case 3:
+                        animationData[i] = MSpriteLoader.loadMSprite("/qin/qin.anu",true,ResourceLoader.getInstance());
+                        break;
+                }
+            }
+            arrowAnimationData = MSpriteLoader.loadMSprite("/castle/arrow02.anu",true,ResourceLoader.getInstance());
+
+            skillAnimationData = MSpriteLoader.loadMSprite("/castle/skill.anu",true,ResourceLoader.getInstance());
+
+        } catch (Exception e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+	}
+
+    public void clear() {
+        selectIndex = 0;
+        heroIndex = 0;
+//        infoString = null;
+        heroInfo = null;
+
+//        commonImage = null;
+        castleBGImage = null;
+//        for(int i=0; i<trainingButton.length; i++){
+//            trainingButton[i]=null;
+//        }
+//        trainingButton = null;
+        for(int i =0 ; i<arrowImage.length; i++){
+            arrowImage[i] = null;
+        }
+        for (int i = 1; i < 3; i++) {
+            okImage[i-1] = null;
+        }
+        okImage = null;
+        arrowImage = null;
+
+        for(int i=0; i<nameImgs.length;i++){
+            nameImgs[i]=null;
+        }
+        nameImgs = null;
+//        loadingBarImage = null;
+        Runtime.getRuntime().gc();
+    }
+
+	public void draw(Graphics g) {
+//		g.drawImage(commonImage, 0, 0, 20);
+		g.drawImage(castleBGImage, 0, 0, 20);
+
+        MSimpleAnimationPlayer player2 = new MSimpleAnimationPlayer(arrowAnimationData, 600, -120);
+
+        g.drawImage(arrowImage[1], 60+indexFrame, 190, 20);
+        g.drawImage(arrowImage[0], 240-indexFrame, 185, 20);
+//        g.setClip(405, 76, Hero.heroChongTimeLV[heroIndex], 20);
+//        g.drawImage(loadingBarImage,  487, 89, Globe.ANCHOR_H_V);
+//        g.setClip(0, 0, Globe.SW, Globe.SH);
+//        g.setClip(405, 152, Hero.heroInvincibleTimeLV[heroIndex], 20);
+//        g.drawImage(loadingBarImage,  487, 165, Globe.ANCHOR_H_V);
+//        g.setClip(0, 0, Globe.SW, Globe.SH);
+//        g.setClip(405, 228, Hero.heroXiangYunLV[heroIndex], 20);
+//        g.drawImage(loadingBarImage,  487, 240, Globe.ANCHOR_H_V);
+//        g.setClip(0, 0, Globe.SW, Globe.SH);
+//        g.setClip(405, 304, Hero.heroSuckStarLV[heroIndex], 20);
+//        g.drawImage(loadingBarImage,  487, 312, Globe.ANCHOR_H_V);
+//        g.setClip(0, 0, Globe.SW, Globe.SH);
+        g.setColor(0x00aa00);
+
+        if(this.fromScreen.getClass().equals(SelectingHeroScreen.class)||this.fromScreen.getClass().equals(SelectingPetScreen.class)){
+            g.drawImage(okImage[4==selectIndex?1:0],415,375,Globe.ANCHOR_T_L);
+        }
+        if(4!=selectIndex){
+//            for (int i = 0; i < infoString[selectIndex].length; i++) {
+                g.setFont(Globe.BigBoldFont);
+                g.setColor(0xffffff);
+            	g.drawString(lvDesString1[selectIndex], 70, 380, 20);
+                g.drawString(lvDesString2[selectIndex], 70, 405, 20);
+                g.drawString(lvDesString3[selectIndex], 70, 430, 20);
+                g.setFont(Globe.defaultFont);
+                g.setColor(0x000000);
+//    		}
+            player2.setSpriteY(120+selectIndex*70);
+        } else {
+            player2.setSpriteY(130+selectIndex*70);
+            g.setFont(Globe.BigBoldFont);
+            g.setColor(0xffffff);
+            g.drawString(lvDesString2[selectIndex], 70, 405, 20);
+            g.setFont(Globe.defaultFont);
+            g.setColor(0x000000);
+        }
+
+        MSimpleAnimationPlayer player = new MSimpleAnimationPlayer(animationData[heroInfo[heroIndex]], 165, 270);
+        MSimpleAnimationPlayer skillPlayer1 = new MSimpleAnimationPlayer(skillAnimationData, 465, 86);
+        MSimpleAnimationPlayer skillPlayer2 = new MSimpleAnimationPlayer(skillAnimationData, 465, 156);
+        MSimpleAnimationPlayer skillPlayer3 = new MSimpleAnimationPlayer(skillAnimationData, 465, 226);
+        MSimpleAnimationPlayer skillPlayer4 = new MSimpleAnimationPlayer(skillAnimationData, 465, 296);
+
+        player.setAnimation(0);
+        player.setFrame((num+1)%player.getFrameCount());
+
+        player2.setAnimation(0);
+        player2.setFrame((num+1)%player2.getFrameCount());
+
+        skillPlayer1.setAnimation(0);
+        skillPlayer1.setFrame(Hero.heroChongTimeLV[heroInfo[heroIndex]]-1);
+        skillPlayer2.setAnimation(0);
+        skillPlayer2.setFrame(Hero.heroInvincibleTimeLV[heroInfo[heroIndex]]-1);
+        skillPlayer3.setAnimation(0);
+        skillPlayer3.setFrame(Hero.heroXiangYunLV[heroInfo[heroIndex]]-1);
+        skillPlayer4.setAnimation(0);
+        skillPlayer4.setFrame(Hero.heroSuckStarLV[heroInfo[heroIndex]]-1);
+
+        if(countNum++%3==0){
+            num++;
+        }
+        player.drawFrame(g);
+        player2.drawFrame(g);
+        skillPlayer1.drawFrame(g);
+        skillPlayer2.drawFrame(g);
+        skillPlayer3.drawFrame(g);
+        skillPlayer4.drawFrame(g);
+
+        g.drawImage(nameImgs[heroInfo[heroIndex]], 130, 90, 20);
+	}
+
+	public void init() {
+		// TODO Auto-generated method stub
+//		commonImage = Globe.getImage("stageSelect/level0.png");
+		castleBGImage = Globe.getImage("castle/castleBG.png");
+//		trainingButton = new Image[2];
+//		for(int i = 0; i < trainingButton.length; i++){
+//			trainingButton[i] = Globe.getImage("castle/training0"+(i+1)+".png");
+//		}
+
+        nameImgs = new Image[4];
+        for(int i=0; i<nameImgs.length;i++){
+            nameImgs[i] = Globe.getImage("selectHero/name"+(i+1)+".png");
+        }
+
+        okImage = new Image[2];
+        for (int i = 1; i < 3; i++) {
+            okImage[i-1] = Globe.getImage("game/pets/ok0"+ i + ".png");
+        }
+		
+        arrowImage = new Image[2];
+        for(int i=0; i<arrowImage.length;i++){
+            arrowImage[i] = Globe.getImage("selectHero/arrow0"+(i+1)+".png");
+        }
+        
+//        loadingBarImage = Globe.getImage("castle/tiao02.png");
+        lvDesString1 = new String[] { "金刚变身：", "防御罩：","筋斗云：", "吸金石：", "" };
+        lvDesString2 = new String[] { "汽车人的无敌进化，酷炫的", "面对猛烈的敌人火力，汽车人",
+                "道路上充满了陷阱，嘿嘿！get", "哈哈！擎天柱再也不用担心", "汽车人！变形出发" };
+        lvDesString3 = new String[] { "飞天冲刺，变身吧！金刚。", "该怎么办？开启无敌防御罩吧。",
+                "新技能就是这么任性。", "小伙伴们没有能量石了。", "" };
+//        infoString=new String[lvDesString.length][];
+//		for(int i=0;i<infoString.length;i++){
+//			infoString[i]=Globe.splitString(lvDesString[i], 400, Globe.BigBoldFont);
+//		}
+		for (int i = 0; i < Hero.isGot.length; i++) {
+			if (Hero.isGot[i]) {
+				heroInfo[heroCount] = i;
+                if(i == GameVariables.heroIndex){
+                    heroIndex = heroCount;
+                }
+				heroCount ++;
+
+			}
+		}
+
+	}
+
+	public int indexFrame=0;
+	public void update() {
+        indexFrame++;
+        indexFrame=(indexFrame+6)%6;
+        if(LWGameCanvas.iskeyPressed(Globe.M_KEY_UP)){
+            this.selectIndex--;
+        }else if(LWGameCanvas.iskeyPressed(Globe.M_KEY_DOWN)){
+            this.selectIndex++;
+        }else if(LWGameCanvas.iskeyPressed(Globe.M_KEY_LEFT)){
+            this.heroIndex--;
+        }else if(LWGameCanvas.iskeyPressed(Globe.M_KEY_RIGHT)){
+            this.heroIndex++;
+        }else if(LWGameCanvas.iskeyPressed(Globe.M_KEY_OK)){
+                if(this.selectIndex==0){
+                    if (Hero.heroChongTimeLV[heroInfo[heroIndex]] <= 10) {
+//                        return;
+                        ConfirmScreen.buyIndex=22;
+                        ConfirmScreen.returnScreen = this;
+                        LWGameCanvas.addScreen(new ConfirmScreen(GameVariables.CONFIRM_SCREEN_ID, heroInfo[heroIndex]));
+                    }
+
+                }else if(this.selectIndex==1){
+                    if (Hero.heroInvincibleTimeLV[heroInfo[heroIndex]] <= 10) {
+//                        return;
+                        ConfirmScreen.buyIndex=23;
+                        ConfirmScreen.returnScreen = this;
+                        LWGameCanvas.addScreen(new ConfirmScreen(GameVariables.CONFIRM_SCREEN_ID, heroInfo[heroIndex]));
+                    }
+
+                }else if(this.selectIndex==2){
+                    if (Hero.heroXiangYunLV[heroInfo[heroIndex]] <= 10) {
+//                        return;
+                        ConfirmScreen.buyIndex=24;
+                        ConfirmScreen.returnScreen = this;
+                        LWGameCanvas.addScreen(new ConfirmScreen(GameVariables.CONFIRM_SCREEN_ID, heroInfo[heroIndex]));
+                    }
+
+                }else if(this.selectIndex==3){
+                    if (Hero.heroSuckStarLV[heroInfo[heroIndex]] <= 10) {
+//                        return;
+                        ConfirmScreen.buyIndex=25;
+                        ConfirmScreen.returnScreen = this;
+                        LWGameCanvas.addScreen(new ConfirmScreen(GameVariables.CONFIRM_SCREEN_ID, heroInfo[heroIndex]));
+                    }
+
+                }else if(this.selectIndex==4){
+                    castleBGImage = Globe.getImage("game/pets/bg01.png");
+//                    this.setActive(false);
+                    LoadingScreen.loadIndex = 2;
+                    LWGameCanvas.addScreen(new LoadingScreen(GameVariables.LOADING_SCREEN_ID));
+                    return;
+                }
+        }
+
+        if(this.fromScreen.getClass().equals(SelectingHeroScreen.class)||this.fromScreen.getClass().equals(SelectingPetScreen.class)){
+            selectIndex=(selectIndex+5)%5;
+        }else {
+            selectIndex=(selectIndex+4)%4;
+        }
+
+        heroIndex=(heroIndex+heroCount)%heroCount;
+
+//        heroIndex1 = heroInfo[heroIndex];
+
+        if(LWGameCanvas.iskeyPressed(Globe.M_KEY_0)){
+            if(this.fromScreen.getClass().equals(SelectingHeroScreen.class)||this.fromScreen.getClass().equals(SelectingPetScreen.class)){
+                LoadingScreen.loadIndex = 1;
+                LWGameCanvas.switchToScreen(new LoadingScreen(GameVariables.LOADING_SCREEN_ID));
+            }else {
+                LWGameCanvas.switchToScreen(new MenuScreen(0));
+            }
+        }
+        Globe.keyBuff = 0;
+	}
+
+}

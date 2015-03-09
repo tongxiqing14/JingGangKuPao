@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee   http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+    <context-param>
+        <param-name>ServerURL</param-name>
+        <param-value>http://192.168.241.102/Platform3CPHttpService/HttpService/</param-value>
+    </context-param>
+
+    <context-param>
+        <param-name>IsButtonOnOK</param-name>
+        <param-value>true</param-value>
+    </context-param>
+
+    <!--未实现-->
+    <context-param>
+        <param-name>IsActiveOnOK</param-name>
+        <param-value>true</param-value>
+    </context-param>
+
+    <!--未实现-->
+    <context-param>
+        <param-name>IsAutoTopUp</param-name>
+        <param-value>true</param-value>
+    </context-param>
+
+    <!--未实现-->
+    <context-param>
+        <param-name>IsMusicOn</param-name>
+        <param-value>true</param-value>
+    </context-param>
+
+    <session-config>
+        <session-timeout>360</session-timeout>
+    </session-config>
+
+    <listener>
+        <listener-class>common.MySessionListener</listener-class>
+    </listener>
+
+    <servlet>
+        <servlet-name>Servlet1</servlet-name>
+        <servlet-class>salary.ServletSalary</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Servlet1</servlet-name>
+        <url-pattern>/HttpService/FishFeiFei.ashx</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SaveGameDataServlet</servlet-name>
+        <servlet-class>web_services.SaveGameDataServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SaveGameDataServlet</servlet-name>
+        <url-pattern>/HttpService/SaveGameData.ashx</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GameStageInfoServlet</servlet-name>
+        <servlet-class>web_services.GameStageInfoServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GameStageInfoServlet</servlet-name>
+        <url-pattern>/HttpService/GetStageData.ashx</url-pattern>
+    </servlet-mapping>
+
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+    <login-config>
+        <auth-method>BASIC</auth-method>
+    </login-config>
+</web-app>

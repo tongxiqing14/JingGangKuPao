@@ -1,0 +1,1948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list readonly="true" id="a49c8262-3b0c-4123-8a51-65bba69ef5c7" name="Default" comment="fixed-1、光标不能默认在魔仙堡上。一定要默认在“开始”上。" />
+    <list default="true" id="5a58ea91-d6c6-4cdf-94e5-5222014d9898" name="Merge from src" comment="revert江苏有线测试修改">
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\fire\001.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\fire\002.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\fire\003.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\ui\204.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\ui\207.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\cache\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\ground\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\sky\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\paoche\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\a1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\land\a1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\a2.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\a3.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\a4.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\castle\arrow02.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\b1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\land\b1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\b2.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\bee\bee.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\bee\state1\bee_state1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\bianfu\bianfu.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\c1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\c2.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\cache\cache.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\cache\state1\cache_state1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\dachou\dachou.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\dragon\dalong.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\qie\daqie.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\land\f.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\fire\fire.anu" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\fire\fire.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\land\g.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\ground\ground1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\ground\ground2.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\ground\ground3.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\ground\ground4.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\ground\ground5.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\land\h.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\pets\land\i.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\icon8a.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\paoche\paoche.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\paoche\state1\paoche_state1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\qie" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\qin\qin.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\qin\state1\qin_state1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\selectHero\rect1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\samllsnowbow\samllsnowbow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\shilaimu\shilaimu.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\castle\skill.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\sky\sky1.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\sky\sky2.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\sky\sky3.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\sky\sky4.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\smalldragon\smalldragon.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\snowbow\snowbow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\stageSelect\stage.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\game\star14.asd" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\xianrenzhang\xianrenzhang.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\xianrenzhang" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\xiaochou\xiaochou.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\xiaochou" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\xiaoqie\xiaoqie.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\xiaoshilaimu\xiaoshilaimu.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\xiaoxianren\xiaoxianren.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\gaming\xiaoxianren" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/the9Input/3.png" afterPath="$PROJECT_DIR$/bin/the9Input/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/the9Input/8.png" afterPath="$PROJECT_DIR$/bin/the9Input/8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/the9Input/8.png" afterPath="$PROJECT_DIR$/classes/the9Input/8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/ConfirmScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/ConfirmScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/ConfirmScreen.class" afterPath="$PROJECT_DIR$/bin/screens/ConfirmScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/ConfirmScreen.class" afterPath="$PROJECT_DIR$/classes/screens/ConfirmScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/download/Download.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/download/Download.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/download/Download.class" afterPath="$PROJECT_DIR$/bin/download/Download.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/elements/Enemy.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/elements/Enemy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/elements/Enemy.class" afterPath="$PROJECT_DIR$/bin/elements/Enemy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/elements/Enemy.class" afterPath="$PROJECT_DIR$/classes/elements/Enemy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/FailureScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/FailureScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/FailureScreen.class" afterPath="$PROJECT_DIR$/bin/screens/FailureScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/FailureScreen.class" afterPath="$PROJECT_DIR$/classes/screens/FailureScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/common/GameVariables.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/common/GameVariables.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/common/GameVariables.class" afterPath="$PROJECT_DIR$/bin/common/GameVariables.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/common/GameVariables.class" afterPath="$PROJECT_DIR$/classes/common/GameVariables.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/GamingScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/GamingScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/GamingScreen.class" afterPath="$PROJECT_DIR$/bin/screens/GamingScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/GamingScreen.class" afterPath="$PROJECT_DIR$/classes/screens/GamingScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/common/Globe.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/common/Globe.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/common/Globe.class" afterPath="$PROJECT_DIR$/bin/common/Globe.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/common/Globe.class" afterPath="$PROJECT_DIR$/classes/common/Globe.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/HelpScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/HelpScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/HelpScreen.class" afterPath="$PROJECT_DIR$/bin/screens/HelpScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/HelpScreen.class" afterPath="$PROJECT_DIR$/classes/screens/HelpScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/elements/Hero.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/elements/Hero.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/elements/Hero.class" afterPath="$PROJECT_DIR$/bin/elements/Hero.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/elements/Hero.class" afterPath="$PROJECT_DIR$/classes/elements/Hero.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/JSONArray.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/JSONArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/org/json/me/JSONArray.class" afterPath="$PROJECT_DIR$/bin/org/json/me/JSONArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/JSONObject.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/JSONObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/org/json/me/JSONObject.class" afterPath="$PROJECT_DIR$/bin/org/json/me/JSONObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/JSONTokener.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/JSONTokener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/org/json/me/JSONTokener.class" afterPath="$PROJECT_DIR$/bin/org/json/me/JSONTokener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/JSONWriter.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/JSONWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/org/json/me/JSONWriter.class" afterPath="$PROJECT_DIR$/bin/org/json/me/JSONWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/Entry/LWGameCanvas.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/Entry/LWGameCanvas.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Entry/LWGameCanvas.class" afterPath="$PROJECT_DIR$/bin/Entry/LWGameCanvas.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/Entry/LWGameCanvas.class" afterPath="$PROJECT_DIR$/classes/Entry/LWGameCanvas.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/Entry/LWGameMidlet.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/Entry/LWGameMidlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Entry/LWGameMidlet.class" afterPath="$PROJECT_DIR$/bin/Entry/LWGameMidlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/LoadingScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/LoadingScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/LoadingScreen.class" afterPath="$PROJECT_DIR$/bin/screens/LoadingScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/LoadingScreen.class" afterPath="$PROJECT_DIR$/classes/screens/LoadingScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/motion/studio/MCPLReader.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/motion/studio/MCPLReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/motion/studio/MCPLReader.class" afterPath="$PROJECT_DIR$/bin/motion/studio/MCPLReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/MFairyCastleScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/MFairyCastleScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/MFairyCastleScreen.class" afterPath="$PROJECT_DIR$/bin/screens/MFairyCastleScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/MFairyCastleScreen.class" afterPath="$PROJECT_DIR$/classes/screens/MFairyCastleScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/motion/studio/MPlayer.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/motion/studio/MPlayer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/motion/studio/MPlayer.class" afterPath="$PROJECT_DIR$/bin/motion/studio/MPlayer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/motion/studio/MSpriteLoader.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/motion/studio/MSpriteLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/motion/studio/MSpriteLoader.class" afterPath="$PROJECT_DIR$/bin/motion/studio/MSpriteLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/motion/studio/MSpriteLoader.class" afterPath="$PROJECT_DIR$/classes/motion/studio/MSpriteLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/net/jscience/util/MathFP.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/net/jscience/util/MathFP.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/net/jscience/util/MathFP.class" afterPath="$PROJECT_DIR$/bin/net/jscience/util/MathFP.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/MenuScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/MenuScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/MenuScreen.class" afterPath="$PROJECT_DIR$/bin/screens/MenuScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/MenuScreen.class" afterPath="$PROJECT_DIR$/classes/screens/MenuScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/motion/Motion.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/motion/Motion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/motion/Motion.class" afterPath="$PROJECT_DIR$/bin/motion/Motion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/iptvNet/NetHander.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/iptvNet/NetHander.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/iptvNet/NetHander.class" afterPath="$PROJECT_DIR$/bin/iptvNet/NetHander.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/iptvNet/NetHander.class" afterPath="$PROJECT_DIR$/classes/iptvNet/NetHander.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/common/NetInfo.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/common/NetInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/common/NetInfo.class" afterPath="$PROJECT_DIR$/bin/common/NetInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/common/NetInfo.class" afterPath="$PROJECT_DIR$/classes/common/NetInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/elements/Pet.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/elements/Pet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/elements/Pet.class" afterPath="$PROJECT_DIR$/bin/elements/Pet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/elements/Pet.class" afterPath="$PROJECT_DIR$/classes/elements/Pet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/RankingScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/RankingScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/RankingScreen.class" afterPath="$PROJECT_DIR$/bin/screens/RankingScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/RankingScreen.class" afterPath="$PROJECT_DIR$/classes/screens/RankingScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/motion/ResourceLoader.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/motion/ResourceLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/motion/ResourceLoader.class" afterPath="$PROJECT_DIR$/bin/motion/ResourceLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/motion/ResourceLoader.class" afterPath="$PROJECT_DIR$/classes/motion/ResourceLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/elements/Road.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/elements/Road.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/elements/Road.class" afterPath="$PROJECT_DIR$/bin/elements/Road.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/elements/Road.class" afterPath="$PROJECT_DIR$/classes/elements/Road.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/SelectingHeroScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/SelectingHeroScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/SelectingHeroScreen.class" afterPath="$PROJECT_DIR$/bin/screens/SelectingHeroScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/SelectingHeroScreen.class" afterPath="$PROJECT_DIR$/classes/screens/SelectingHeroScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/SelectingPetScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/SelectingPetScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/SelectingPetScreen.class" afterPath="$PROJECT_DIR$/bin/screens/SelectingPetScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/SelectingPetScreen.class" afterPath="$PROJECT_DIR$/classes/screens/SelectingPetScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/StageScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/StageScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/StageScreen.class" afterPath="$PROJECT_DIR$/bin/screens/StageScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/StageScreen.class" afterPath="$PROJECT_DIR$/classes/screens/StageScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/iptvNet/The9InputScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/iptvNet/The9InputScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/iptvNet/The9InputScreen.class" afterPath="$PROJECT_DIR$/bin/iptvNet/The9InputScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/iptvNet/The9InputScreen.class" afterPath="$PROJECT_DIR$/classes/iptvNet/The9InputScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/TipsScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/TipsScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/TipsScreen.class" afterPath="$PROJECT_DIR$/bin/screens/TipsScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/TipsScreen.class" afterPath="$PROJECT_DIR$/classes/screens/TipsScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/TutorialScreen.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/screens/TutorialScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/screens/TutorialScreen.class" afterPath="$PROJECT_DIR$/bin/screens/TutorialScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/screens/TutorialScreen.class" afterPath="$PROJECT_DIR$/classes/screens/TutorialScreen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/common/Vector.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/common/Vector.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/common/Vector.class" afterPath="$PROJECT_DIR$/bin/common/Vector.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/common/Warrior.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/common/Warrior.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/common/Warrior.class" afterPath="$PROJECT_DIR$/bin/common/Warrior.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/util/XML.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/util/XML.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/org/json/me/util/XML.class" afterPath="$PROJECT_DIR$/bin/org/json/me/util/XML.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/util/XMLTokener.class" afterPath="$PROJECT_DIR$/.eclipseme.tmp/verified/classes/org/json/me/util/XMLTokener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/org/json/me/util/XMLTokener.class" afterPath="$PROJECT_DIR$/bin/org/json/me/util/XMLTokener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/gaming/bianfu/bianfu.anu" afterPath="$PROJECT_DIR$/bin/gaming/bianfu/bianfu.anu" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/gaming/bianfu/bianfu.anu" afterPath="$PROJECT_DIR$/classes/gaming/bianfu/bianfu.anu" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/road/bing01.png" afterPath="$PROJECT_DIR$/bin/road/bing01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/road/bing01.png" afterPath="$PROJECT_DIR$/classes/road/bing01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/road/bing02.png" afterPath="$PROJECT_DIR$/bin/road/bing02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/road/bing02.png" afterPath="$PROJECT_DIR$/classes/road/bing02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/road/bing03.png" afterPath="$PROJECT_DIR$/bin/road/bing03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/road/bing03.png" afterPath="$PROJECT_DIR$/classes/road/bing03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/road/caodi01.png" afterPath="$PROJECT_DIR$/bin/road/caodi01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/road/caodi01.png" afterPath="$PROJECT_DIR$/classes/road/caodi01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/road/caodi02.png" afterPath="$PROJECT_DIR$/bin/road/caodi02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/road/caodi02.png" afterPath="$PROJECT_DIR$/classes/road/caodi02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/road/caodi03.png" afterPath="$PROJECT_DIR$/bin/road/caodi03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/road/caodi03.png" afterPath="$PROJECT_DIR$/classes/road/caodi03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/effect/chongfeng.anu" afterPath="$PROJECT_DIR$/bin/effect/chongfeng.anu" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/effect/chongfeng.anu" afterPath="$PROJECT_DIR$/classes/effect/chongfeng.anu" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/road/huoshan01.png" afterPath="$PROJECT_DIR$/bin/road/huoshan01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/road/huoshan01.png" afterPath="$PROJECT_DIR$/classes/road/huoshan01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/road/huoshan02.png" afterPath="$PROJECT_DIR$/bin/road/huoshan02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/road/huoshan02.png" afterPath="$PROJECT_DIR$/classes/road/huoshan02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/road/huoshan03.png" afterPath="$PROJECT_DIR$/bin/road/huoshan03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/road/huoshan03.png" afterPath="$PROJECT_DIR$/classes/road/huoshan03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/game/star14.anu" afterPath="$PROJECT_DIR$/bin/game/star14.anu" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/game/star14.anu" afterPath="$PROJECT_DIR$/classes/game/star14.anu" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eclipseme" afterPath="$PROJECT_DIR$/.eclipseme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/eclipseme.core.prefs" afterPath="$PROJECT_DIR$/.settings/eclipseme.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="J30_FruitSpy.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties converted="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="J30_FruitSpy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GamingScreen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/screens/GamingScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5111" max-vertical-offset="21296">
+              <caret line="741" column="5" selection-start-line="741" selection-start-column="5" selection-end-line="741" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectingHeroScreen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/screens/SelectingHeroScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1144" max-vertical-offset="5390">
+              <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MFairyCastleScreen.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/screens/MFairyCastleScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="3.6177778" vertical-offset="1914" max-vertical-offset="6842">
+              <caret line="211" column="41" selection-start-line="211" selection-start-column="41" selection-end-line="211" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfirmScreen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/screens/ConfirmScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="9445" max-vertical-offset="13354">
+              <caret line="466" column="51" selection-start-line="466" selection-start-column="51" selection-end-line="466" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NetHander.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/iptvNet/NetHander.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5082" max-vertical-offset="16742">
+              <caret line="267" column="40" selection-start-line="267" selection-start-column="28" selection-end-line="267" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TipsScreen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/screens/TipsScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="1738">
+              <caret line="44" column="30" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TutorialScreen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/screens/TutorialScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2889" max-vertical-offset="3564">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuccessScreen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/screens/SuccessScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="484" max-vertical-offset="4114">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="The9InputScreen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/iptvNet/The9InputScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="11506">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/screens/MenuScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/SuccessScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/RankingScreen.java" />
+        <option value="$PROJECT_DIR$/src/Entry/LWGameCanvas.java" />
+        <option value="$PROJECT_DIR$/src/screens/SelectingPetScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/SelectingHeroScreen.java" />
+        <option value="$PROJECT_DIR$/src/iptvNet/The9InputScreen.java" />
+        <option value="$PROJECT_DIR$/J32_LittleWitchParkour.jad" />
+        <option value="$PROJECT_DIR$/src/elements/Hero.java" />
+        <option value="$PROJECT_DIR$/src/elements/Enemy.java" />
+        <option value="$PROJECT_DIR$/src/iptvNet/NetHander.java" />
+        <option value="$PROJECT_DIR$/src/common/Globe.java" />
+        <option value="$PROJECT_DIR$/src/screens/GamingScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/ConfirmScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/MFairyCastleScreen.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="motion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iptvNet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the9Input" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="package" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="package" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LittleWitchParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="J32_LittleWitchParkour_Promotion1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransformersParkour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="package" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HouseBroom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="iptvNet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\res\the9Input" />
+      <recent name="E:\idea\Client\Single\J32_LittleWitchParkour_HuBeiDianXin\res\menu" />
+      <recent name="E:\idea\Client\Single\J32_LittleWitchParkour_HuBeiDianXin\res\game\pets" />
+      <recent name="E:\idea\Client\Single\J32_LittleWitchParkour_HuBeiDianXin\res\confirm" />
+      <recent name="E:\idea\Client\Single\J32_LittleWitchParkour_HuBeiDianXin\res\selectHero" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="screens" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Documents and Settings\Administrator.MICROSOF-E2D484\Application Data\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour" />
+          <option name="myCopyRoot" value="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\.idea" />
+          <option name="myCopyRoot" value="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour" />
+          <option name="myCopyRoot" value="E:\ideacodes\JinGangPaoKu\JiangSuYouXian\v1.0\TransformersParkour" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a49c8262-3b0c-4123-8a51-65bba69ef5c7" name="Default" comment="" />
+      <created>1384481383093</created>
+      <option name="number" value="Default" />
+      <updated>1384481383093</updated>
+      <workItem from="1423097621146" duration="5907000" />
+      <workItem from="1423113531994" duration="17990000" />
+      <workItem from="1423192909435" duration="17471000" />
+      <workItem from="1423444826738" duration="8737000" />
+      <workItem from="1423640101518" duration="5945000" />
+      <workItem from="1425193293294" duration="2109000" />
+      <workItem from="1425259986622" duration="1606000" />
+      <workItem from="1425345601301" duration="314000" />
+      <workItem from="1425382745910" duration="23000" />
+      <workItem from="1425866503225" duration="60000" />
+    </task>
+    <task id="LOCAL-00099" summary="魔仙堡角色训练界面加入到游戏主流程">
+      <created>1388644982109</created>
+      <option name="number" value="00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1388644982109</updated>
+    </task>
+    <task id="LOCAL-00100" summary="宠物选择界面初步修改">
+      <created>1388654185125</created>
+      <option name="number" value="00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1388654185125</updated>
+    </task>
+    <task id="LOCAL-00101" summary="宠物选择界面动画初步布局">
+      <created>1388657517109</created>
+      <option name="number" value="00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1388657517109</updated>
+    </task>
+    <task id="LOCAL-00102" summary="增加宠物选中色块">
+      <created>1388714271203</created>
+      <option name="number" value="00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1388714271203</updated>
+    </task>
+    <task id="LOCAL-00103" summary="增加宠物选中色块">
+      <created>1388716401093</created>
+      <option name="number" value="00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1388716401093</updated>
+    </task>
+    <task id="LOCAL-00104" summary="实现: -- 1，宠物选择界面，选中移出3格时，新移入的宠物一格一格地移入；">
+      <created>1388725689109</created>
+      <option name="number" value="00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1388725689109</updated>
+    </task>
+    <task id="LOCAL-00105" summary="实现: -- 1，宠物选择界面，选中移出3格时，新移入的宠物一格一格地移入；">
+      <created>1388728533109</created>
+      <option name="number" value="00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1388728533109</updated>
+    </task>
+    <task id="LOCAL-00106" summary="实现: -- 1，宠物选择界面，选中移出3格时，新移入的宠物一格一格地移入；">
+      <created>1388729742093</created>
+      <option name="number" value="00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1388729742093</updated>
+    </task>
+    <task id="LOCAL-00107" summary="实现: -- 1，宠物选择界面，选中移出3格时，新移入的宠物一格一格地移入；">
+      <created>1388732194109</created>
+      <option name="number" value="00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1388732194109</updated>
+    </task>
+    <task id="LOCAL-00108" summary="实现 -- 2, 加上双向箭头；">
+      <created>1388736155109</created>
+      <option name="number" value="00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1388736155109</updated>
+    </task>
+    <task id="LOCAL-00109" summary="实现 -- 选框中宠物和演示窗中宠物联动；">
+      <created>1388737852109</created>
+      <option name="number" value="00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1388737852109</updated>
+    </task>
+    <task id="LOCAL-00110" summary="解决宠物上下移动混乱的问题">
+      <created>1388979044109</created>
+      <option name="number" value="00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1388979044109</updated>
+    </task>
+    <task id="LOCAL-00111" summary="解决选中一系宠物，转到另一系宠物，前一系宠物选中被破坏的问题">
+      <created>1388980238093</created>
+      <option name="number" value="00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1388980238093</updated>
+    </task>
+    <task id="LOCAL-00112" summary="为宠物取了名字">
+      <created>1388988115109</created>
+      <option name="number" value="00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1388988115109</updated>
+    </task>
+    <task id="LOCAL-00113" summary="删除多余代码">
+      <created>1388988476109</created>
+      <option name="number" value="00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1388988476109</updated>
+    </task>
+    <task id="LOCAL-00114" summary="增加宠物属性描述">
+      <created>1388990781109</created>
+      <option name="number" value="00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1388990781109</updated>
+    </task>
+    <task id="LOCAL-00115" summary="魔仙堡修改">
+      <created>1388996705093</created>
+      <option name="number" value="00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1388996705125</updated>
+    </task>
+    <task id="LOCAL-00116" summary="各个界面切换调通">
+      <created>1388997961093</created>
+      <option name="number" value="00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1388997961093</updated>
+    </task>
+    <task id="LOCAL-00117" summary="增加“购买”，“使用”按钮">
+      <created>1388999434093</created>
+      <option name="number" value="00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1388999434093</updated>
+    </task>
+    <task id="LOCAL-00118" summary="选中宠物打勾">
+      <created>1389001460109</created>
+      <option name="number" value="00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1389001460109</updated>
+    </task>
+    <task id="LOCAL-00119" summary="代码重构">
+      <created>1389006917093</created>
+      <option name="number" value="00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1389006917093</updated>
+    </task>
+    <task id="LOCAL-00120" summary="宠物选择界面“返回”按钮按下后，改为转到魔仙堡">
+      <created>1389007442140</created>
+      <option name="number" value="00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1389007442140</updated>
+    </task>
+    <task id="LOCAL-00121" summary="可以移动到“返回”，“进入游戏”按钮上了">
+      <created>1389009945109</created>
+      <option name="number" value="00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1389009945109</updated>
+    </task>
+    <task id="LOCAL-00122" summary="“返回”，“进入游戏”按钮功能实现">
+      <created>1389010724093</created>
+      <option name="number" value="00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1389010724093</updated>
+    </task>
+    <task id="LOCAL-00123" summary="“返回”，“进入游戏”按钮功能实现">
+      <created>1389011494109</created>
+      <option name="number" value="00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1389011494109</updated>
+    </task>
+    <task id="LOCAL-00124" summary="修复宠物购买功能">
+      <created>1389059330171</created>
+      <option name="number" value="00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1389059330171</updated>
+    </task>
+    <task id="LOCAL-00125" summary="the 9 input screen modification;">
+      <created>1422858702104</created>
+      <option name="number" value="00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1422858702104</updated>
+    </task>
+    <task id="LOCAL-00126" summary="4 png modification;">
+      <created>1423097933134</created>
+      <option name="number" value="00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1423097933134</updated>
+    </task>
+    <task id="LOCAL-00127" summary="价格调整；元改代币；">
+      <created>1423100457102</created>
+      <option name="number" value="00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1423100457102</updated>
+    </task>
+    <task id="LOCAL-00128" summary="confirm screen modification;">
+      <created>1423100917103</created>
+      <option name="number" value="00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1423100917103</updated>
+    </task>
+    <task id="LOCAL-00129" summary="menu screen modification;">
+      <created>1423101828103</created>
+      <option name="number" value="00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1423101828103</updated>
+    </task>
+    <task id="LOCAL-00130" summary="5.消耗性道具价格不能超过3元；">
+      <created>1423113649104</created>
+      <option name="number" value="00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1423113649104</updated>
+    </task>
+    <task id="LOCAL-00131" summary="selecting hero screen modification;">
+      <created>1423114830103</created>
+      <option name="number" value="00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1423114830104</updated>
+    </task>
+    <task id="LOCAL-00132" summary="4.使用大黄蜂进入游戏，结果在游戏中是通天晓；">
+      <created>1423116362103</created>
+      <option name="number" value="00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1423116362104</updated>
+    </task>
+    <task id="LOCAL-00133" summary="RankingScreen">
+      <created>1423118420117</created>
+      <option name="number" value="00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1423118420117</updated>
+    </task>
+    <task id="LOCAL-00134" summary="6.游戏通过一关，退出游戏进入排行榜，排行榜没有数据；">
+      <created>1423118584104</created>
+      <option name="number" value="00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1423118584104</updated>
+    </task>
+    <task id="LOCAL-00135" summary="selecting pet screen modification;">
+      <created>1423124936103</created>
+      <option name="number" value="00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1423124936104</updated>
+    </task>
+    <task id="LOCAL-00136" summary="selecting pet screen modification;">
+      <created>1423125075102</created>
+      <option name="number" value="00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1423125075102</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Hero class modification;">
+      <created>1423125836103</created>
+      <option name="number" value="00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1423125836103</updated>
+    </task>
+    <task id="LOCAL-00138" summary="initial focusing position;">
+      <created>1423130140117</created>
+      <option name="number" value="00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1423130140126</updated>
+    </task>
+    <task id="LOCAL-00139" summary="confirm screen modification;">
+      <created>1423133251103</created>
+      <option name="number" value="00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1423133251103</updated>
+    </task>
+    <task id="LOCAL-00140" summary="IsButtonOnOK">
+      <created>1423134003104</created>
+      <option name="number" value="00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1423134003104</updated>
+    </task>
+    <task id="LOCAL-00141" summary="safe time 提前；">
+      <created>1423205925104</created>
+      <option name="number" value="00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1423205925104</updated>
+    </task>
+    <task id="LOCAL-00142" summary="MFairyCastleScreen modification;">
+      <created>1423206900104</created>
+      <option name="number" value="00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1423206900104</updated>
+    </task>
+    <task id="LOCAL-00143" summary="version 2">
+      <created>1423214156103</created>
+      <option name="number" value="00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1423214156103</updated>
+    </task>
+    <task id="LOCAL-00144" summary="collect stars;">
+      <created>1423219482102</created>
+      <option name="number" value="00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1423219482102</updated>
+    </task>
+    <task id="LOCAL-00145" summary="confirm screen, MFairy Cast Screen modification;">
+      <created>1423449513165</created>
+      <option name="number" value="00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1423449513165</updated>
+    </task>
+    <task id="LOCAL-00146" summary="confirm screen, MFairy Cast Screen modification;">
+      <created>1423450217103</created>
+      <option name="number" value="00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1423450217103</updated>
+    </task>
+    <task id="LOCAL-00147" summary="the 9 input png;">
+      <created>1423465571102</created>
+      <option name="number" value="00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1423465571102</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60162000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5345304" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5441989" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29305354" sideWeight="0.4654443" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21128799" sideWeight="0.46334717" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Analyze Dataflow to" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.64502764" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6519337" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5441989" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Analyze Dataflow to" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21128799" sideWeight="0.46334717" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5345304" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.64502764" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32344428" sideWeight="0.4654443" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6519337" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="代码重构" />
+    <MESSAGE value="宠物选择界面“返回”按钮按下后，改为转到魔仙堡" />
+    <MESSAGE value="可以移动到“返回”，“进入游戏”按钮上了" />
+    <MESSAGE value="“返回”，“进入游戏”按钮功能实现" />
+    <MESSAGE value="修复宠物购买功能" />
+    <MESSAGE value="the 9 input screen modification;" />
+    <MESSAGE value="4 png modification;" />
+    <MESSAGE value="价格调整；元改代币；" />
+    <MESSAGE value="menu screen modification;" />
+    <MESSAGE value="5.消耗性道具价格不能超过3元；" />
+    <MESSAGE value="selecting hero screen modification;" />
+    <MESSAGE value="4.使用大黄蜂进入游戏，结果在游戏中是通天晓；" />
+    <MESSAGE value="RankingScreen" />
+    <MESSAGE value="6.游戏通过一关，退出游戏进入排行榜，排行榜没有数据；" />
+    <MESSAGE value="selecting pet screen modification;" />
+    <MESSAGE value="Hero class modification;" />
+    <MESSAGE value="initial focusing position;" />
+    <MESSAGE value="confirm screen modification;" />
+    <MESSAGE value="IsButtonOnOK" />
+    <MESSAGE value="safe time 提前；" />
+    <MESSAGE value="MFairyCastleScreen modification;" />
+    <MESSAGE value="version 2" />
+    <MESSAGE value="collect stars;" />
+    <MESSAGE value="confirm screen, MFairy Cast Screen modification;" />
+    <MESSAGE value="the 9 input png;" />
+    <option name="LAST_COMMIT_MESSAGE" value="the 9 input png;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/screens/GamingScreen.java</url>
+          <line>621</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/screens/GamingScreen.java</url>
+          <line>602</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/screens/GamingScreen.java</url>
+          <line>579</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/screens/GamingScreen.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/J32_LittleWitchParkour.jad">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="462">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/the9Input/4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entry/LWGameCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1650" max-vertical-offset="9438">
+          <caret line="98" column="46" selection-start-line="98" selection-start-column="41" selection-end-line="98" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/GameVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="682">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/GamingScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17915" max-vertical-offset="21164">
+          <caret line="906" column="35" selection-start-line="906" selection-start-column="35" selection-end-line="906" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/ConfirmScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1650" max-vertical-offset="13024">
+          <caret line="167" column="60" selection-start-line="167" selection-start-column="37" selection-end-line="167" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/MenuScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1650" max-vertical-offset="3850">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/TipsScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1738">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/SelectingHeroScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2772" max-vertical-offset="5390">
+          <caret line="160" column="87" selection-start-line="160" selection-start-column="9" selection-end-line="160" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/SelectingPetScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8514" max-vertical-offset="11022">
+          <caret line="403" column="43" selection-start-line="403" selection-start-column="18" selection-end-line="403" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/J32_LittleWitchParkour.jad">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="462">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iptvNet/The9InputScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="11528">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/the9Input/4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/GameVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="682">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/GamingScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="21164">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/NetInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6710" max-vertical-offset="7150">
+          <caret line="314" column="42" selection-start-line="314" selection-start-column="13" selection-end-line="314" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iptvNet/NetHander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6996" max-vertical-offset="16742">
+          <caret line="330" column="19" selection-start-line="330" selection-start-column="19" selection-end-line="330" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/ConfirmScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9570" max-vertical-offset="13024">
+          <caret line="445" column="92" selection-start-line="445" selection-start-column="77" selection-end-line="445" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/ConfirmScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="445" column="92" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/motion/Motion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="14" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="11" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/the9Input/4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/GameVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="682">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/MenuScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1650" max-vertical-offset="3850">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/RankingScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="931" max-vertical-offset="1936">
+          <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entry/LWGameCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="462" max-vertical-offset="9438">
+          <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entry/LWGameMidlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1056">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/J32_LittleWitchParkour_Promotion1.0.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1078">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/SelectingPetScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8587" max-vertical-offset="11242">
+          <caret line="368" column="14" selection-start-line="368" selection-start-column="14" selection-end-line="368" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/NetInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3624" max-vertical-offset="7150">
+          <caret line="177" column="58" selection-start-line="177" selection-start-column="58" selection-end-line="177" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/J32_LittleWitchParkour.jad">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="484">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/LoadingScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11087" max-vertical-offset="14014">
+          <caret line="516" column="67" selection-start-line="516" selection-start-column="67" selection-end-line="516" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/game/star1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/game/star2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/FailureScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1811" max-vertical-offset="3476">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/json/me/util/XMLTokener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3007" max-vertical-offset="8492">
+          <caret line="143" column="25" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/WTK2.5.2_01/lib/cldcapi11.jar!/java/lang/Math.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="638" max-vertical-offset="1474">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements/Road.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="984" max-vertical-offset="1804">
+          <caret line="60" column="60" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1649" max-vertical-offset="8976">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elements/Enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="923" max-vertical-offset="9812">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Globe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3351" max-vertical-offset="8536">
+          <caret line="172" column="44" selection-start-line="172" selection-start-column="26" selection-end-line="172" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#11267#11268#0" expanded="false" />
+            <element signature="e#11317#11318#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iptvNet/The9InputScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11638">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/SuccessScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4114">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/motion/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64148146" vertical-offset="5595" max-vertical-offset="10560">
+          <caret line="284" column="8" selection-start-line="284" selection-start-column="8" selection-end-line="284" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/ConfirmScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9511" max-vertical-offset="13354">
+          <caret line="466" column="51" selection-start-line="466" selection-start-column="51" selection-end-line="466" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iptvNet/NetHander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5082" max-vertical-offset="16742">
+          <caret line="267" column="40" selection-start-line="267" selection-start-column="28" selection-end-line="267" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/TipsScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1063" max-vertical-offset="1738">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/TutorialScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2889" max-vertical-offset="3564">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/GamingScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15605" max-vertical-offset="21296">
+          <caret line="741" column="5" selection-start-line="741" selection-start-column="5" selection-end-line="741" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/SelectingHeroScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5390">
+          <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/MFairyCastleScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.6177778" vertical-offset="1914" max-vertical-offset="6842">
+          <caret line="211" column="41" selection-start-line="211" selection-start-column="41" selection-end-line="211" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>J32_LittleWitchParkour_Promotion1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>WebForIPTV</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

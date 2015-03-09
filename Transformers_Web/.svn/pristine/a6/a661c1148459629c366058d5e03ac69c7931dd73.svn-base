@@ -1,0 +1,3281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="43309d65-1a6e-4972-8526-a8c300ceeacf" name="Default" comment="1,verification modify;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_web_jsp_2_2_1_b03.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/RussionChessServerJiangsuYouxian_Web_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/tongxiqing.xml" />
+      <change type="DELETED" beforePath="E:\ideacodes\commSc\NawaWorries_Web_YL\.idea\ant.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\commSc\NawaWorries_Web_YL\.idea\artifacts\NawaWorries_Web_YL.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\ideacodes\commSc\NawaWorries_Web_YL\out\artifacts" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RussionChessServerJiangsuYouxian.iml" afterPath="$PROJECT_DIR$/RussionChessServerJiangsuYouxian.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/RussionChessServerJiangsuYouxian_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/RussionChessServerJiangsuYouxian_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="RussionChessServerJiangsuYouxian.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/StageInfoModify.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411115778570" ignored="false" />
+    <file path="/Dummy.txt" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413787910177" ignored="false" />
+    <file path="/stageMapScreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413291631217" ignored="false" />
+    <file path="/stageMapScreen.js" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411118748055" ignored="false" />
+    <file path="/Stage2StageAction.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411120585022" ignored="false" />
+    <file path="/a.dummy" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413165233066" ignored="false" />
+    <file path="/gamescreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413378344664" ignored="false" />
+    <file path="/backpackscreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413340458456" ignored="false" />
+    <file path="/main.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413528288300" ignored="false" />
+    <file path="/InfoTransition.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412762192545" ignored="false" />
+    <file path="/sub_jigsawscreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411393668069" ignored="false" />
+    <file path="/jigsawscreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411392453202" ignored="false" />
+    <file path="/the9InputScreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412066839408" ignored="false" />
+    <file path="/NetHander.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412734901006" ignored="false" />
+    <file path="/NetInfo.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412730194442" ignored="false" />
+    <file path="/VerificationServlet.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411445676112" ignored="false" />
+    <file path="/index.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413536363312" ignored="false" />
+    <file path="/HeroServlet.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413426919918" ignored="false" />
+    <file path="$PROJECT_DIR$/../FishFeiFei/package/ahdx/FishFeiFei.jad" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411437155194" ignored="false" />
+    <file path="/web.xml" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411471773300" ignored="false" />
+    <file path="/The9InputScreenServlet.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413346294574" ignored="false" />
+    <file path="/ConsumeServlet.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411445237183" ignored="false" />
+    <file path="/ServletSalary.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411445353265" ignored="false" />
+    <file path="/BalanceServlet.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411445489682" ignored="false" />
+    <file path="/decrease_hp.js" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413177790861" ignored="false" />
+    <file path="/decrease_hero_hp.js" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412776357672" ignored="false" />
+    <file path="/RankScreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412733040122" ignored="false" />
+    <file path="/ShopRoomScreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411474849434" ignored="false" />
+    <file path="/StageInfoUpdateServlet.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413293973375" ignored="false" />
+    <file path="/hero.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411627914361" ignored="false" />
+    <file path="/gamescreen_effect.js" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411700847340" ignored="false" />
+    <file path="/gamescreen.js" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411721224148" ignored="false" />
+    <file path="/dead_animation.js" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411711256411" ignored="false" />
+    <file path="/gamescreen_hero_effect.js" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411895744824" ignored="false" />
+    <file path="/gamescreen_follow_effect.js" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411902734872" ignored="false" />
+    <file path="/TeamScreenOp.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412908353950" ignored="false" />
+    <file path="/HeroDataOp.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413429241630" ignored="false" />
+    <file path="/Hero.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412860830477" ignored="false" />
+    <file path="/LevelDataOp.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1411996084626" ignored="false" />
+    <file path="/armorbasescreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413525409294" ignored="false" />
+    <file path="/Armorbases2ArmorbasesServlet.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413526914376" ignored="false" />
+    <file path="/HeroItem.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412923217202" ignored="false" />
+    <file path="/taskscreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412753726311" ignored="false" />
+    <file path="/EnemyTeam.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412761274274" ignored="false" />
+    <file path="/PropertiesOp.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412844939757" ignored="false" />
+    <file path="/role_image_array_names.properties" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412839144345" ignored="false" />
+    <file path="/teamscreen.jsp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413777911598" ignored="false" />
+    <file path="/visible_pet_title_img_path.properties" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412862270966" ignored="false" />
+    <file path="/visible_title_img_path.properties" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412862932627" ignored="false" />
+    <file path="/herodata.properties" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413267515725" ignored="false" />
+    <file path="/teamitem.properties" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412908449138" ignored="false" />
+    <file path="/TeamToTeamServlet.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413531296472" ignored="false" />
+    <file path="/JsonToBean.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413269305969" ignored="false" />
+    <file path="/PackDataOp.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412922893583" ignored="false" />
+    <file path="/Guys.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412923385399" ignored="false" />
+    <file path="/FighterBean.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412924782068" ignored="false" />
+    <file path="/GuyBean.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412925188584" ignored="false" />
+    <file path="/HeroInfoSave.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1412990425148" ignored="false" />
+    <file path="/*.regexp" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413783844353" ignored="false" />
+    <file path="/gamebgimgpath.properties" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413168795224" ignored="false" />
+    <file path="/effect.properties" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413249884711" ignored="false" />
+    <file path="/PetBean.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413265852939" ignored="false" />
+    <file path="/EquipMaxIndexBean.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413526283457" ignored="false" />
+    <file path="/fragment.java" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413341676742" ignored="false" />
+    <file path="/teamscreen.js" changelist="43309d65-1a6e-4972-8526-a8c300ceeacf" time="1413371726514" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/service/TeamScreenOp.java" line="146" class="service.TeamScreenOp" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/service/TeamScreenOp.java" line="154" class="service.TeamScreenOp" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/elements/LevelItem.java" line="9" class="elements.LevelItem" package="elements">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/elements/LevelItem.java" line="10" class="elements.LevelItem" package="elements">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/common/NetInfo.java" line="247" class="common.NetInfo" package="common">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/iptvNet/NetHander.java" line="133" class="iptvNet.NetHander" package="iptvNet">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/elements/screen/TitleItem.java" line="33" class="elements.screen.TitleItem" package="elements.screen">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/elements/screen/TitleItem.java" line="12" class="elements.screen.TitleItem" package="elements.screen">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/elements/screen/TitleItem.java" line="59" class="elements.screen.TitleItem" package="elements.screen">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/web/index.jsp" line="44" class="index.jsp" package="E:\ideacodes\commSc\NawaWorries_Web_YL\web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/salary/StageInfoUpdateServlet.java" line="72" class="salary.StageInfoUpdateServlet" package="salary">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/service/HeroDataOp.java" line="52" class="service.HeroDataOp" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/service/HeroDataOp.java" line="88" class="service.HeroDataOp" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/web/gamescreen.jsp" line="769" class="gamescreen.jsp" package="E:\ideacodes\commSc\NawaWorries_Web_YL\web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/web/teamscreen.jsp" line="72" class="teamscreen.jsp" package="E:\ideacodes\commSc\NawaWorries_Web_YL\web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RussionChessServerJiangsuYouxian" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/main.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="116" column="39" selection-start="4266" selection-end="4327" vertical-scroll-proportion="-6.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="battleheart.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/battleheart.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="753" column="72" selection-start="30005" selection-end="30005" vertical-scroll-proportion="-438.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teamscreen.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/teamscreen.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="101" column="38" selection-start="3906" selection-end="3906" vertical-scroll-proportion="-414.0">
+              <folding>
+                <element signature="e#1221#1234#0" expanded="true" />
+                <element signature="e#1480#1493#0" expanded="true" />
+                <element signature="e#1553#1566#0" expanded="true" />
+                <element signature="e#1626#1639#0" expanded="true" />
+                <element signature="e#1696#1709#0" expanded="true" />
+                <element signature="e#2393#2406#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rowelements.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/Styles/stageMapScreen/rowelements.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="404" column="1" selection-start="5262" selection-end="5262" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teamscreen.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/include/teamscreen/teamscreen.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="100" column="90" selection-start="4673" selection-end="4673" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stageMapScreen.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/stageMapScreen.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="417" column="32" selection-start="17918" selection-end="17958" vertical-scroll-proportion="-312.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gamescreen.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/gamescreen.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="389" column="25" selection-start="18305" selection-end="18305" vertical-scroll-proportion="0.6388889">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeroDataOp.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/service/HeroDataOp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="100" column="0" selection-start="3638" selection-end="3638" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InfoTransition.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/service/InfoTransition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="13" selection-start="557" selection-end="557" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeamScreenOp.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/service/TeamScreenOp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="5" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/salary/HeroServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salary/The9InputScreenServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/HeroDataOp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/EquipMaxIndexBean.java" />
+        <option value="$PROJECT_DIR$/web/armorbasescreen.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/transitServlet/Armorbases2ArmorbasesServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salary/StageInfoUpdateServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/transitServlet/TeamToTeamServlet.java" />
+        <option value="$PROJECT_DIR$/web/main.jsp" />
+        <option value="$PROJECT_DIR$/web/battleheart.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/UserTokenBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/iptvNet/NetHander.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/teamscreen.jsp" />
+        <option value="$PROJECT_DIR$/web/gamescreen.jsp" />
+        <option value="$PROJECT_DIR$/web/include/teamscreen/teamscreen.js" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pets1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teamscreen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stageMapScreen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gamescreen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="armorbasescreen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battlecenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="initial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transitServlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="armorbase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="salary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RussionChessServerJiangsuYouxian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NawaWorries_Web_YL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="project.structure.side.proportion" value="0.2873832" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideacodes\commSc\NawaWorries_Web_YL\web\battlecenter" />
+      <recent name="E:\ideacodes\commSc\NawaWorries_Web_YL\web" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="tools" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree">
+    <UpdateInfo date="Moments ago" ActionInfo="_Update">
+      <UpdatedFiles>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated from server" />
+          <option name="myStatusName" value="Changed on server" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CHANGED_ON_SERVER" />
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Updated" />
+            <option name="myStatusName" value="Changed" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="UPDATED" />
+            <PATH vcs="svn" revision="2532">E:\ideacodes\commSc\NawaWorries_Web_YL\web\gamescreen.jsp</PATH>
+            <PATH vcs="svn" revision="2532">E:\ideacodes\commSc\NawaWorries_Web_YL\web\Styles\gamescreen.css</PATH>
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Created" />
+            <option name="myStatusName" value="Created" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="CREATED" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Deleted" />
+            <option name="myStatusName" value="Deleted" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="true" />
+            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Restored" />
+            <option name="myStatusName" value="Will be restored" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="RESTORED" />
+          </FILE-GROUP>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Modified" />
+          <option name="myStatusName" value="Modified" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MODIFIED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Skipped" />
+          <option name="myStatusName" value="Skipped" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SKIPPED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with conflicts" />
+          <option name="myStatusName" value="Will be merged with conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_CONFLICTS" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with tree conflicts" />
+          <option name="myStatusName" value="Merged with tree conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with property conflicts" />
+          <option name="myStatusName" value="Will be merged with property conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged" />
+          <option name="myStatusName" value="Will be merged" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Not in repository" />
+          <option name="myStatusName" value="Not in repository" />
+          <option name="mySupportsDeletion" value="true" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UNKNOWN" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally added" />
+          <option name="myStatusName" value="Locally added" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_ADDED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally removed" />
+          <option name="myStatusName" value="Locally removed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_REMOVED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Switched" />
+          <option name="myStatusName" value="Switched" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SWITCHED" />
+        </FILE-GROUP>
+      </UpdatedFiles>
+    </UpdateInfo>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0">
+    <configuration default="false" name="PropertiesOp" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="common.PropertiesOp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RussionChessServerJiangsuYouxian" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TeamScreenOp" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="service.TeamScreenOp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RussionChessServerJiangsuYouxian" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HeroDataOp" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="tools.HeroDataOp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RussionChessServerJiangsuYouxian" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PackDataOp" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="tools.PackDataOp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RussionChessServerJiangsuYouxian" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HeroInfoSave" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="beans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="beans.HeroInfoSave" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RussionChessServerJiangsuYouxian" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat 7.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="RussionChessServerJiangsuYouxian:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/1" />
+          </settings>
+        </artifact>
+        <artifact name="RussionChessServerJiangsuYouxian:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/2" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_RussionChessServerJiangsuYouxian_5" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59306" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="RussionChessServerJiangsuYouxian:war exploded" />
+          <artifact name="RussionChessServerJiangsuYouxian:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PropertiesOp" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TeamScreenOp" />
+      <item index="3" class="java.lang.String" itemvalue="Application.HeroDataOp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PackDataOp" />
+      <item index="5" class="java.lang.String" itemvalue="Application.HeroInfoSave" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.PackDataOp" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HeroInfoSave" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HeroDataOp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TeamScreenOp" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PropertiesOp" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\tongxiqing\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\ideacodes\commSc\NawaWorries_Web_YL" />
+          <option name="myCopyRoot" value="E:\ideacodes\commSc\NawaWorries_Web_YL" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\ideacodes\commSc\NawaWorries_Web_YL\.idea" />
+          <option name="myCopyRoot" value="E:\ideacodes\commSc\NawaWorries_Web_YL\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\ideacodes\commSc\NawaWorries_Web_YL" />
+          <option name="myCopyRoot" value="E:\ideacodes\commSc\NawaWorries_Web_YL" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43309d65-1a6e-4972-8526-a8c300ceeacf" name="Default" comment="" />
+      <created>1411111753151</created>
+      <updated>1411111753151</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1,Stage info modify;">
+      <created>1411116032107</created>
+      <updated>1411116032107</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1,Stage info modify;">
+      <created>1411116893104</created>
+      <updated>1411116893104</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1,Stage info modify;">
+      <created>1411121217104</created>
+      <updated>1411121217104</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1,Stage info modify;">
+      <created>1411123627105</created>
+      <updated>1411123627105</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1,Stage info modify;">
+      <created>1411128291105</created>
+      <updated>1411128291105</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1,equip num increase;">
+      <created>1411131043103</created>
+      <updated>1411131043103</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1,game screen modify;">
+      <created>1411131257103</created>
+      <updated>1411131257103</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1,game screen modify;">
+      <created>1411131742106</created>
+      <updated>1411131742106</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1,game screen modify;">
+      <created>1411136128103</created>
+      <updated>1411136128103</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1,equipItem plus;">
+      <created>1411141017105</created>
+      <updated>1411141017105</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1,back pack screen modify;">
+      <created>1411354321126</created>
+      <updated>1411354321126</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1,back pack screen modify;">
+      <created>1411356378104</created>
+      <updated>1411356378104</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1,Stage map screen modify;">
+      <created>1411357210103</created>
+      <updated>1411357210103</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1,main screen modify;">
+      <created>1411361617103</created>
+      <updated>1411361617103</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1,back pack screen modify;">
+      <created>1411363597103</created>
+      <updated>1411363597103</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1,back pack screen modify;">
+      <created>1411365102102</created>
+      <updated>1411365102102</updated>
+    </task>
+    <task id="LOCAL-00017" summary="1,only correct members selected in team screen;">
+      <created>1411367253103</created>
+      <updated>1411367253103</updated>
+    </task>
+    <task id="LOCAL-00018" summary="1,only correct members selected in team screen;">
+      <created>1411368120103</created>
+      <updated>1411368120103</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1,back pack screen modify;">
+      <created>1411369314104</created>
+      <updated>1411369314104</updated>
+    </task>
+    <task id="LOCAL-00020" summary="1,Stage info modify;">
+      <created>1411372756104</created>
+      <updated>1411372756104</updated>
+    </task>
+    <task id="LOCAL-00021" summary="1,back pack screen modify;">
+      <created>1411376723104</created>
+      <updated>1411376723104</updated>
+    </task>
+    <task id="LOCAL-00022" summary="1,main jsp modify;">
+      <created>1411377683104</created>
+      <updated>1411377683104</updated>
+    </task>
+    <task id="LOCAL-00023" summary="1,hero jsp modify;">
+      <created>1411378221103</created>
+      <updated>1411378221104</updated>
+    </task>
+    <task id="LOCAL-00024" summary="1,sub jigsawscreen modify;">
+      <created>1411381619104</created>
+      <updated>1411381619104</updated>
+    </task>
+    <task id="LOCAL-00025" summary="1, jigsawscreen modify;">
+      <created>1411383779104</created>
+      <updated>1411383779104</updated>
+    </task>
+    <task id="LOCAL-00026" summary="1,sub jigsawscreen modify;">
+      <created>1411384414104</created>
+      <updated>1411384414104</updated>
+    </task>
+    <task id="LOCAL-00027" summary="1,sub jigsawscreen modify;">
+      <created>1411384808104</created>
+      <updated>1411384808104</updated>
+    </task>
+    <task id="LOCAL-00028" summary="1,general bar 位置微调;">
+      <created>1411386992111</created>
+      <updated>1411386992111</updated>
+    </task>
+    <task id="LOCAL-00029" summary="1,sub jigsawscreen modify;">
+      <created>1411388080105</created>
+      <updated>1411388080105</updated>
+    </task>
+    <task id="LOCAL-00030" summary="1,sub jigsawscreen modify;">
+      <created>1411388763104</created>
+      <updated>1411388763104</updated>
+    </task>
+    <task id="LOCAL-00031" summary="1, jigsawscreen modify;">
+      <created>1411392566105</created>
+      <updated>1411392566105</updated>
+    </task>
+    <task id="LOCAL-00032" summary="1, jigsawscreen modify;">
+      <created>1411394526105</created>
+      <updated>1411394526105</updated>
+    </task>
+    <task id="LOCAL-00033" summary="1,verification modify;">
+      <created>1411436288137</created>
+      <updated>1411436288137</updated>
+    </task>
+    <task id="LOCAL-00034" summary="1,the9inputscreen jsp modify;">
+      <created>1411438877103</created>
+      <updated>1411438877103</updated>
+    </task>
+    <task id="LOCAL-00035" summary="1,the9inputscreen jsp modify;">
+      <created>1411439757104</created>
+      <updated>1411439757104</updated>
+    </task>
+    <task id="LOCAL-00036" summary="1,暂时不实现question answer 验证;">
+      <created>1411442543102</created>
+      <updated>1411442543102</updated>
+    </task>
+    <task id="LOCAL-00037" summary="1,static removed;">
+      <created>1411445546104</created>
+      <updated>1411445546104</updated>
+    </task>
+    <task id="LOCAL-00038" summary="1,static removed;">
+      <created>1411446073104</created>
+      <updated>1411446073104</updated>
+    </task>
+    <task id="LOCAL-00039" summary="1,the9inputscreen jsp modify;">
+      <created>1411448256105</created>
+      <updated>1411448256105</updated>
+    </task>
+    <task id="LOCAL-00040" summary="1, decrease hp modify;">
+      <created>1411453590104</created>
+      <updated>1411453590104</updated>
+    </task>
+    <task id="LOCAL-00041" summary="1, decrease hp modify;">
+      <created>1411459085103</created>
+      <updated>1411459085103</updated>
+    </task>
+    <task id="LOCAL-00042" summary="1, decrease hp modify;">
+      <created>1411460294104</created>
+      <updated>1411460294104</updated>
+    </task>
+    <task id="LOCAL-00043" summary="1, decrease hp modify;">
+      <created>1411462056103</created>
+      <updated>1411462056103</updated>
+    </task>
+    <task id="LOCAL-00044" summary="1,少enemy modify;">
+      <created>1411463755103</created>
+      <updated>1411463755103</updated>
+    </task>
+    <task id="LOCAL-00045" summary="1,temp">
+      <created>1411467015104</created>
+      <updated>1411467015104</updated>
+    </task>
+    <task id="LOCAL-00046" summary="1,info transition modify;">
+      <created>1411467501102</created>
+      <updated>1411467501102</updated>
+    </task>
+    <task id="LOCAL-00047" summary="1,stage info update modify;">
+      <created>1411472974104</created>
+      <updated>1411472974104</updated>
+    </task>
+    <task id="LOCAL-00048" summary="1,main jsp modify;">
+      <created>1411473487104</created>
+      <updated>1411473487104</updated>
+    </task>
+    <task id="LOCAL-00049" summary="1,main jsp modify;">
+      <created>1411473592102</created>
+      <updated>1411473592102</updated>
+    </task>
+    <task id="LOCAL-00050" summary="1,main jsp modify;">
+      <created>1411474986105</created>
+      <updated>1411474986105</updated>
+    </task>
+    <task id="LOCAL-00051" summary="1,youtongsuo input;">
+      <created>1411478641105</created>
+      <updated>1411478641105</updated>
+    </task>
+    <task id="LOCAL-00052" summary="1,youtongsuo input;">
+      <created>1411480234103</created>
+      <updated>1411480234103</updated>
+    </task>
+    <task id="LOCAL-00053" summary="1,youtongsuo input;">
+      <created>1411521721123</created>
+      <updated>1411521721123</updated>
+    </task>
+    <task id="LOCAL-00054" summary="1,main jsp modify;">
+      <created>1411525259103</created>
+      <updated>1411525259103</updated>
+    </task>
+    <task id="LOCAL-00055" summary="1,main jsp modify;">
+      <created>1411526194104</created>
+      <updated>1411526194104</updated>
+    </task>
+    <task id="LOCAL-00056" summary="1, decrease hp modify;">
+      <created>1411527363104</created>
+      <updated>1411527363104</updated>
+    </task>
+    <task id="LOCAL-00057" summary="1,main jsp modify;">
+      <created>1411529228104</created>
+      <updated>1411529228104</updated>
+    </task>
+    <task id="LOCAL-00058" summary="1, decrease hp modify;">
+      <created>1411532287104</created>
+      <updated>1411532287104</updated>
+    </task>
+    <task id="LOCAL-00059" summary="1, game screen modify;">
+      <created>1411535066102</created>
+      <updated>1411535066102</updated>
+    </task>
+    <task id="LOCAL-00060" summary="1, decrease hp modify;">
+      <created>1411535430104</created>
+      <updated>1411535430104</updated>
+    </task>
+    <task id="LOCAL-00061" summary="1, game screen modify;">
+      <created>1411539991104</created>
+      <updated>1411539991104</updated>
+    </task>
+    <task id="LOCAL-00062" summary="1, decrease hp modify;">
+      <created>1411540423103</created>
+      <updated>1411540423103</updated>
+    </task>
+    <task id="LOCAL-00063" summary="1,the9inputscreen jsp modify;">
+      <created>1411544753103</created>
+      <updated>1411544753104</updated>
+    </task>
+    <task id="LOCAL-00064" summary="1,the9inputscreen jsp modify;">
+      <created>1411547559104</created>
+      <updated>1411547559104</updated>
+    </task>
+    <task id="LOCAL-00065" summary="1,back pack screen modify;">
+      <created>1411549066102</created>
+      <updated>1411549066102</updated>
+    </task>
+    <task id="LOCAL-00066" summary="1,back pack screen modify;">
+      <created>1411549155103</created>
+      <updated>1411549155103</updated>
+    </task>
+    <task id="LOCAL-00067" summary="1,game screen modify;">
+      <created>1411556454107</created>
+      <updated>1411556454107</updated>
+    </task>
+    <task id="LOCAL-00068" summary="1,game screen modify;">
+      <created>1411557910146</created>
+      <updated>1411557910146</updated>
+    </task>
+    <task id="LOCAL-00069" summary="1,game screen modify;">
+      <created>1411559198104</created>
+      <updated>1411559198104</updated>
+    </task>
+    <task id="LOCAL-00070" summary="1,game screen modify;">
+      <created>1411559385102</created>
+      <updated>1411559385102</updated>
+    </task>
+    <task id="LOCAL-00071" summary="1,game screen modify;">
+      <created>1411561384104</created>
+      <updated>1411561384104</updated>
+    </task>
+    <task id="LOCAL-00072" summary="1,game screen modify;">
+      <created>1411565951103</created>
+      <updated>1411565951103</updated>
+    </task>
+    <task id="LOCAL-00073" summary="1,game screen modify;">
+      <created>1411567102103</created>
+      <updated>1411567102103</updated>
+    </task>
+    <task id="LOCAL-00074" summary="1,game screen modify;">
+      <created>1411568814103</created>
+      <updated>1411568814103</updated>
+    </task>
+    <task id="LOCAL-00075" summary="1,game screen modify;">
+      <created>1411570298102</created>
+      <updated>1411570298102</updated>
+    </task>
+    <task id="LOCAL-00076" summary="1,hero jsp modify;">
+      <created>1411616741136</created>
+      <updated>1411616741136</updated>
+    </task>
+    <task id="LOCAL-00077" summary="1,hero jsp modify;">
+      <created>1411620125104</created>
+      <updated>1411620125104</updated>
+    </task>
+    <task id="LOCAL-00078" summary="1,加入消费stage;">
+      <created>1411622603104</created>
+      <updated>1411622603104</updated>
+    </task>
+    <task id="LOCAL-00079" summary="1,加入消费stage;">
+      <created>1411625020104</created>
+      <updated>1411625020104</updated>
+    </task>
+    <task id="LOCAL-00080" summary="1,加入mouse ;">
+      <created>1411627437104</created>
+      <updated>1411627437104</updated>
+    </task>
+    <task id="LOCAL-00081" summary="1,加入mouse ;">
+      <created>1411628598105</created>
+      <updated>1411628598105</updated>
+    </task>
+    <task id="LOCAL-00082" summary="1,加入mouse ;">
+      <created>1411629579104</created>
+      <updated>1411629579104</updated>
+    </task>
+    <task id="LOCAL-00083" summary="1,加入mouse ;">
+      <created>1411629698104</created>
+      <updated>1411629698104</updated>
+    </task>
+    <task id="LOCAL-00084" summary="1,加入back png img;">
+      <created>1411631806102</created>
+      <updated>1411631806102</updated>
+    </task>
+    <task id="LOCAL-00085" summary="1,game screen modify;">
+      <created>1411635436102</created>
+      <updated>1411635436102</updated>
+    </task>
+    <task id="LOCAL-00086" summary="1,game screen modify;">
+      <created>1411636078102</created>
+      <updated>1411636078102</updated>
+    </task>
+    <task id="LOCAL-00087" summary="1,game screen modify;">
+      <created>1411642746102</created>
+      <updated>1411642746102</updated>
+    </task>
+    <task id="LOCAL-00088" summary="1,game screen modify;">
+      <created>1411647893104</created>
+      <updated>1411647893104</updated>
+    </task>
+    <task id="LOCAL-00089" summary="1,the9inputscreen jsp modify;">
+      <created>1411649767105</created>
+      <updated>1411649767105</updated>
+    </task>
+    <task id="LOCAL-00090" summary="1,the9inputscreen jsp modify;">
+      <created>1411654101102</created>
+      <updated>1411654101102</updated>
+    </task>
+    <task id="LOCAL-00091" summary="1,game screen modify;">
+      <created>1411654730102</created>
+      <updated>1411654730102</updated>
+    </task>
+    <task id="LOCAL-00092" summary="1,the9inputscreen jsp modify;">
+      <created>1411656993102</created>
+      <updated>1411656993102</updated>
+    </task>
+    <task id="LOCAL-00093" summary="1,game screen modify;">
+      <created>1411704166105</created>
+      <updated>1411704166105</updated>
+    </task>
+    <task id="LOCAL-00094" summary="1,game screen modify;">
+      <created>1411708921105</created>
+      <updated>1411708921105</updated>
+    </task>
+    <task id="LOCAL-00095" summary="1,game screen modify;">
+      <created>1411714339103</created>
+      <updated>1411714339103</updated>
+    </task>
+    <task id="LOCAL-00096" summary="1,game screen modify;">
+      <created>1411716666103</created>
+      <updated>1411716666103</updated>
+    </task>
+    <task id="LOCAL-00097" summary="1,game screen modify;">
+      <created>1411718521104</created>
+      <updated>1411718521104</updated>
+    </task>
+    <task id="LOCAL-00098" summary="1,game screen modify;">
+      <created>1411720973104</created>
+      <updated>1411720973104</updated>
+    </task>
+    <task id="LOCAL-00099" summary="1,game screen modify;">
+      <created>1411721606104</created>
+      <updated>1411721606104</updated>
+    </task>
+    <task id="LOCAL-00100" summary="1,game screen modify;">
+      <created>1411730596109</created>
+      <updated>1411730596109</updated>
+    </task>
+    <task id="LOCAL-00101" summary="1,game screen modify;">
+      <created>1411733254104</created>
+      <updated>1411733254104</updated>
+    </task>
+    <task id="LOCAL-00102" summary="1,game screen modify;">
+      <created>1411736788105</created>
+      <updated>1411736788105</updated>
+    </task>
+    <task id="LOCAL-00103" summary="1, Info Transition modify;">
+      <created>1411737656102</created>
+      <updated>1411737656102</updated>
+    </task>
+    <task id="LOCAL-00104" summary="1,reconstruct;">
+      <created>1411876179370</created>
+      <updated>1411876179370</updated>
+    </task>
+    <task id="LOCAL-00105" summary="1,reconstruct;">
+      <created>1411877999122</created>
+      <updated>1411877999122</updated>
+    </task>
+    <task id="LOCAL-00106" summary="1,reconstruct;">
+      <created>1411878533104</created>
+      <updated>1411878533104</updated>
+    </task>
+    <task id="LOCAL-00107" summary="1,effect reconstruct;">
+      <created>1411896889104</created>
+      <updated>1411896889104</updated>
+    </task>
+    <task id="LOCAL-00108" summary="1,yangtao commit;">
+      <created>1411897128102</created>
+      <updated>1411897128102</updated>
+    </task>
+    <task id="LOCAL-00109" summary="1,reconstruct;">
+      <created>1411902925102</created>
+      <updated>1411902925102</updated>
+    </task>
+    <task id="LOCAL-00110" summary="1,teamscreen obj operation modify;">
+      <created>1411907037104</created>
+      <updated>1411907037104</updated>
+    </task>
+    <task id="LOCAL-00111" summary="1,reconstruct;">
+      <created>1411913579104</created>
+      <updated>1411913579104</updated>
+    </task>
+    <task id="LOCAL-00112" summary="1,reconstruct;">
+      <created>1411916311102</created>
+      <updated>1411916311102</updated>
+    </task>
+    <task id="LOCAL-00113" summary="1,back pack modify;">
+      <created>1411954122123</created>
+      <updated>1411954122123</updated>
+    </task>
+    <task id="LOCAL-00114" summary="1,back pack modify;">
+      <created>1411955740104</created>
+      <updated>1411955740104</updated>
+    </task>
+    <task id="LOCAL-00115" summary="1,back pack modify;">
+      <created>1411960698102</created>
+      <updated>1411960698102</updated>
+    </task>
+    <task id="LOCAL-00116" summary="1,back pack modify;">
+      <created>1411962327104</created>
+      <updated>1411962327104</updated>
+    </task>
+    <task id="LOCAL-00117" summary="1,back pack modify;">
+      <created>1411963276104</created>
+      <updated>1411963276104</updated>
+    </task>
+    <task id="LOCAL-00118" summary="1,back pack modify;">
+      <created>1411967565104</created>
+      <updated>1411967565104</updated>
+    </task>
+    <task id="LOCAL-00119" summary="1,back pack modify;">
+      <created>1411970507104</created>
+      <updated>1411970507104</updated>
+    </task>
+    <task id="LOCAL-00120" summary="1,back pack modify;">
+      <created>1411975342104</created>
+      <updated>1411975342104</updated>
+    </task>
+    <task id="LOCAL-00121" summary="1,back pack modify;">
+      <created>1411977682104</created>
+      <updated>1411977682104</updated>
+    </task>
+    <task id="LOCAL-00122" summary="1,back pack modify;">
+      <created>1411981094104</created>
+      <updated>1411981094104</updated>
+    </task>
+    <task id="LOCAL-00123" summary="1,back pack modify;">
+      <created>1411982500104</created>
+      <updated>1411982500104</updated>
+    </task>
+    <task id="LOCAL-00124" summary="1,back pack modify;">
+      <created>1411990957104</created>
+      <updated>1411990957104</updated>
+    </task>
+    <task id="LOCAL-00125" summary="1,the 9 input screen modify;">
+      <created>1411992884105</created>
+      <updated>1411992884105</updated>
+    </task>
+    <task id="LOCAL-00126" summary="1,level data op modify;">
+      <created>1411997166104</created>
+      <updated>1411997166104</updated>
+    </task>
+    <task id="LOCAL-00127" summary="1,armor base screen modify;">
+      <created>1412044270114</created>
+      <updated>1412044270114</updated>
+    </task>
+    <task id="LOCAL-00128" summary="1,armor base screen modify;">
+      <created>1412046462104</created>
+      <updated>1412046462104</updated>
+    </task>
+    <task id="LOCAL-00129" summary="1,armor base screen modify;">
+      <created>1412050333103</created>
+      <updated>1412050333104</updated>
+    </task>
+    <task id="LOCAL-00130" summary="1,armor base screen modify;">
+      <created>1412054122119</created>
+      <updated>1412054122119</updated>
+    </task>
+    <task id="LOCAL-00131" summary="1,armor base screen modify;">
+      <created>1412057517106</created>
+      <updated>1412057517106</updated>
+    </task>
+    <task id="LOCAL-00132" summary="1,armor base screen modify;">
+      <created>1412065827105</created>
+      <updated>1412065827105</updated>
+    </task>
+    <task id="LOCAL-00133" summary="1,armor base screen modify;">
+      <created>1412067371104</created>
+      <updated>1412067371104</updated>
+    </task>
+    <task id="LOCAL-00134" summary="1,armor base screen modify;">
+      <created>1412068318105</created>
+      <updated>1412068318105</updated>
+    </task>
+    <task id="LOCAL-00135" summary="1,armor base screen modify;">
+      <created>1412070929105</created>
+      <updated>1412070929105</updated>
+    </task>
+    <task id="LOCAL-00136" summary="1,armor base screen modify;">
+      <created>1412072409105</created>
+      <updated>1412072409105</updated>
+    </task>
+    <task id="LOCAL-00137" summary="1,animation不能显示issue">
+      <created>1412075319105</created>
+      <updated>1412075319105</updated>
+    </task>
+    <task id="LOCAL-00138" summary="1,B700 moving issue;">
+      <created>1412078316105</created>
+      <updated>1412078316105</updated>
+    </task>
+    <task id="LOCAL-00139" summary="1,saveGameData modify;">
+      <created>1412732748107</created>
+      <updated>1412732748107</updated>
+    </task>
+    <task id="LOCAL-00140" summary="1,rank screen jsp modify;">
+      <created>1412733265104</created>
+      <updated>1412733265105</updated>
+    </task>
+    <task id="LOCAL-00141" summary="1,rank screen jsp modify;">
+      <created>1412735414103</created>
+      <updated>1412735414103</updated>
+    </task>
+    <task id="LOCAL-00142" summary="1,index jsp modify;">
+      <created>1412737389102</created>
+      <updated>1412737389102</updated>
+    </task>
+    <task id="LOCAL-00143" summary="1,hero daata modify;">
+      <created>1412738443102</created>
+      <updated>1412738443102</updated>
+    </task>
+    <task id="LOCAL-00144" summary="1,hero daata modify;">
+      <created>1412740168104</created>
+      <updated>1412740168104</updated>
+    </task>
+    <task id="LOCAL-00145" summary="1,hero data save modify;">
+      <created>1412742822104</created>
+      <updated>1412742822104</updated>
+    </task>
+    <task id="LOCAL-00146" summary="1,game screen modify;">
+      <created>1412747919105</created>
+      <updated>1412747919105</updated>
+    </task>
+    <task id="LOCAL-00147" summary="1,armor base screen modify;">
+      <created>1412749305104</created>
+      <updated>1412749305104</updated>
+    </task>
+    <task id="LOCAL-00148" summary="1,main screen jsp modify;">
+      <created>1412750556105</created>
+      <updated>1412750556105</updated>
+    </task>
+    <task id="LOCAL-00149" summary="1,main screen jsp modify;">
+      <created>1412751902104</created>
+      <updated>1412751902104</updated>
+    </task>
+    <task id="LOCAL-00150" summary="1,main screen jsp modify;">
+      <created>1412752640105</created>
+      <updated>1412752640105</updated>
+    </task>
+    <task id="LOCAL-00151" summary="1,main screen jsp modify;">
+      <created>1412754115104</created>
+      <updated>1412754115104</updated>
+    </task>
+    <task id="LOCAL-00152" summary="1,game screen modify;">
+      <created>1412755656104</created>
+      <updated>1412755656104</updated>
+    </task>
+    <task id="LOCAL-00153" summary="1,game screen modify;">
+      <created>1412757324104</created>
+      <updated>1412757324104</updated>
+    </task>
+    <task id="LOCAL-00154" summary="1,game screen modify;">
+      <created>1412758247104</created>
+      <updated>1412758247104</updated>
+    </task>
+    <task id="LOCAL-00155" summary="1,team screen jsp modify;">
+      <created>1412759772104</created>
+      <updated>1412759772104</updated>
+    </task>
+    <task id="LOCAL-00156" summary="1,index screen jsp modify;">
+      <created>1412761133104</created>
+      <updated>1412761133104</updated>
+    </task>
+    <task id="LOCAL-00157" summary="1,game screen modify;">
+      <created>1412762857104</created>
+      <updated>1412762857104</updated>
+    </task>
+    <task id="LOCAL-00158" summary="1,game screen modify;">
+      <created>1412765593104</created>
+      <updated>1412765593104</updated>
+    </task>
+    <task id="LOCAL-00159" summary="1,game screen modify;">
+      <created>1412766321105</created>
+      <updated>1412766321105</updated>
+    </task>
+    <task id="LOCAL-00160" summary="1,game screen modify;">
+      <created>1412772224104</created>
+      <updated>1412772224104</updated>
+    </task>
+    <task id="LOCAL-00161" summary="1,stage info update servlet modify;">
+      <created>1412774340105</created>
+      <updated>1412774340105</updated>
+    </task>
+    <task id="LOCAL-00162" summary="1,game screen modify;">
+      <created>1412778590104</created>
+      <updated>1412778590104</updated>
+    </task>
+    <task id="LOCAL-00163" summary="1,web.xml &amp; gamescreen jsp;">
+      <created>1412818556128</created>
+      <updated>1412818556128</updated>
+    </task>
+    <task id="LOCAL-00164" summary="1,game screen modify;">
+      <created>1412819679103</created>
+      <updated>1412819679103</updated>
+    </task>
+    <task id="LOCAL-00165" summary="1,game screen modify;">
+      <created>1412826974103</created>
+      <updated>1412826974103</updated>
+    </task>
+    <task id="LOCAL-00166" summary="1,game screen modify;">
+      <created>1412828257103</created>
+      <updated>1412828257103</updated>
+    </task>
+    <task id="LOCAL-00167" summary="1,game screen modify;">
+      <created>1412833281102</created>
+      <updated>1412833281102</updated>
+    </task>
+    <task id="LOCAL-00168" summary="1,game screen modify;">
+      <created>1412835151102</created>
+      <updated>1412835151102</updated>
+    </task>
+    <task id="LOCAL-00169" summary="1,game screen modify;">
+      <created>1412835566102</created>
+      <updated>1412835566102</updated>
+    </task>
+    <task id="LOCAL-00170" summary="1,game screen modify;">
+      <created>1412839385103</created>
+      <updated>1412839385103</updated>
+    </task>
+    <task id="LOCAL-00171" summary="1,verification modify;">
+      <created>1412841572102</created>
+      <updated>1412841572102</updated>
+    </task>
+    <task id="LOCAL-00172" summary="1,properties modify;">
+      <created>1412843928103</created>
+      <updated>1412843928103</updated>
+    </task>
+    <task id="LOCAL-00173" summary="1,properties modify;">
+      <created>1412846042139</created>
+      <updated>1412846042139</updated>
+    </task>
+    <task id="LOCAL-00174" summary="1,properties modify;">
+      <created>1412846149103</created>
+      <updated>1412846149104</updated>
+    </task>
+    <task id="LOCAL-00175" summary="1,properties modify;">
+      <created>1412847114103</created>
+      <updated>1412847114103</updated>
+    </task>
+    <task id="LOCAL-00176" summary="1,properties modify;">
+      <created>1412847918103</created>
+      <updated>1412847918103</updated>
+    </task>
+    <task id="LOCAL-00177" summary="1,game screen modify;">
+      <created>1412851961112</created>
+      <updated>1412851961112</updated>
+    </task>
+    <task id="LOCAL-00178" summary="1,main screen modify;">
+      <created>1412856227108</created>
+      <updated>1412856227108</updated>
+    </task>
+    <task id="LOCAL-00179" summary="1,after sucess, 累积积分；">
+      <created>1412858194105</created>
+      <updated>1412858194105</updated>
+    </task>
+    <task id="LOCAL-00180" summary="1,properties modify;">
+      <created>1412864129103</created>
+      <updated>1412864129103</updated>
+    </task>
+    <task id="LOCAL-00181" summary="1,team screen jsp modify;">
+      <created>1412907411126</created>
+      <updated>1412907411126</updated>
+    </task>
+    <task id="LOCAL-00182" summary="1,team screen jsp modify;">
+      <created>1412911553104</created>
+      <updated>1412911553104</updated>
+    </task>
+    <task id="LOCAL-00183" summary="1,team screen jsp modify;">
+      <created>1412915398104</created>
+      <updated>1412915398104</updated>
+    </task>
+    <task id="LOCAL-00184" summary="1,team screen jsp modify;">
+      <created>1412916919104</created>
+      <updated>1412916919104</updated>
+    </task>
+    <task id="LOCAL-00185" summary="1,team screen jsp modify;">
+      <created>1412917300104</created>
+      <updated>1412917300104</updated>
+    </task>
+    <task id="LOCAL-00186" summary="1,team screen jsp modify;">
+      <created>1412918506105</created>
+      <updated>1412918506105</updated>
+    </task>
+    <task id="LOCAL-00187" summary="1,team screen jsp modify;">
+      <created>1412919272105</created>
+      <updated>1412919272105</updated>
+    </task>
+    <task id="LOCAL-00188" summary="1,back pack screen jsp modify;">
+      <created>1412922520104</created>
+      <updated>1412922520104</updated>
+    </task>
+    <task id="LOCAL-00189" summary="1,team screen jsp modify;">
+      <created>1412924366104</created>
+      <updated>1412924366104</updated>
+    </task>
+    <task id="LOCAL-00190" summary="1,back pack screen jsp modify;">
+      <created>1412928626105</created>
+      <updated>1412928626105</updated>
+    </task>
+    <task id="LOCAL-00191" summary="1,back pack screen jsp modify;">
+      <created>1412929843103</created>
+      <updated>1412929843103</updated>
+    </task>
+    <task id="LOCAL-00192" summary="1,back pack screen jsp modify;">
+      <created>1412930163104</created>
+      <updated>1412930163104</updated>
+    </task>
+    <task id="LOCAL-00193" summary="1,back pack screen jsp modify;">
+      <created>1412937291104</created>
+      <updated>1412937291105</updated>
+    </task>
+    <task id="LOCAL-00194" summary="1,back pack screen jsp modify;">
+      <created>1412938512105</created>
+      <updated>1412938512105</updated>
+    </task>
+    <task id="LOCAL-00195" summary="1,back pack screen jsp modify;">
+      <created>1412945326104</created>
+      <updated>1412945326104</updated>
+    </task>
+    <task id="LOCAL-00196" summary="1,armor base screen jsp modify;">
+      <created>1412992696108</created>
+      <updated>1412992696108</updated>
+    </task>
+    <task id="LOCAL-00197" summary="1,armor base screen jsp modify;">
+      <created>1412998891105</created>
+      <updated>1412998891105</updated>
+    </task>
+    <task id="LOCAL-00198" summary="1, game screen jsp modify;">
+      <created>1413000655102</created>
+      <updated>1413000655102</updated>
+    </task>
+    <task id="LOCAL-00199" summary="1, game screen jsp modify;">
+      <created>1413002009102</created>
+      <updated>1413002009102</updated>
+    </task>
+    <task id="LOCAL-00200" summary="1,index modify;">
+      <created>1413017467104</created>
+      <updated>1413017467104</updated>
+    </task>
+    <task id="LOCAL-00201" summary="1,index modify;">
+      <created>1413017513104</created>
+      <updated>1413017513104</updated>
+    </task>
+    <task id="LOCAL-00202" summary="1, game screen jsp modify;">
+      <created>1413023823103</created>
+      <updated>1413023823103</updated>
+    </task>
+    <task id="LOCAL-00203" summary="1, game screen jsp modify;">
+      <created>1413167018118</created>
+      <updated>1413167018118</updated>
+    </task>
+    <task id="LOCAL-00204" summary="1, test asf modify;">
+      <created>1413167121102</created>
+      <updated>1413167121102</updated>
+    </task>
+    <task id="LOCAL-00205" summary="Revert: 1, game screen jsp modify;">
+      <created>1413167298102</created>
+      <updated>1413167298102</updated>
+    </task>
+    <task id="LOCAL-00206" summary="1, game screen jsp modify;">
+      <created>1413168318102</created>
+      <updated>1413168318102</updated>
+    </task>
+    <task id="LOCAL-00207" summary="1, game screen jsp modify;">
+      <created>1413169398102</created>
+      <updated>1413169398102</updated>
+    </task>
+    <task id="LOCAL-00208" summary="1, game screen jsp modify;">
+      <created>1413171912103</created>
+      <updated>1413171912103</updated>
+    </task>
+    <task id="LOCAL-00209" summary="1, game screen jsp modify;">
+      <created>1413179543104</created>
+      <updated>1413179543104</updated>
+    </task>
+    <task id="LOCAL-00210" summary="1, game screen jsp modify;">
+      <created>1413186081104</created>
+      <updated>1413186081104</updated>
+    </task>
+    <task id="LOCAL-00211" summary="1, game screen jsp modify;">
+      <created>1413186208104</created>
+      <updated>1413186208104</updated>
+    </task>
+    <task id="LOCAL-00212" summary="1,verification modify;">
+      <created>1413189686104</created>
+      <updated>1413189686104</updated>
+    </task>
+    <task id="LOCAL-00213" summary="1,team screen modify;">
+      <created>1413194057104</created>
+      <updated>1413194057104</updated>
+    </task>
+    <task id="LOCAL-00214" summary="1,team screen modify;">
+      <created>1413197759103</created>
+      <updated>1413197759103</updated>
+    </task>
+    <task id="LOCAL-00215" summary="1,role image array modify;">
+      <created>1413201599103</created>
+      <updated>1413201599103</updated>
+    </task>
+    <task id="LOCAL-00216" summary="1,role image array modify;">
+      <created>1413203967104</created>
+      <updated>1413203967104</updated>
+    </task>
+    <task id="LOCAL-00217" summary="1,effect release conf;">
+      <created>1413254663106</created>
+      <updated>1413254663106</updated>
+    </task>
+    <task id="LOCAL-00218" summary="1,effect release conf;">
+      <created>1413255026102</created>
+      <updated>1413255026102</updated>
+    </task>
+    <task id="LOCAL-00219" summary="1,hero data modify;">
+      <created>1413270891104</created>
+      <updated>1413270891104</updated>
+    </task>
+    <task id="LOCAL-00220" summary="1,back pack screen jsp modify;">
+      <created>1413273690105</created>
+      <updated>1413273690105</updated>
+    </task>
+    <task id="LOCAL-00221" summary="1,back pack screen jsp modify;Fighter Item Bean plus;">
+      <created>1413277324131</created>
+      <updated>1413277324131</updated>
+    </task>
+    <task id="LOCAL-00222" summary="1,back pack screen jsp modify;Fighter Item Bean plus;">
+      <created>1413280277102</created>
+      <updated>1413280277102</updated>
+    </task>
+    <task id="LOCAL-00223" summary="1,stage info update ;">
+      <created>1413285995104</created>
+      <updated>1413285995104</updated>
+    </task>
+    <task id="LOCAL-00224" summary="1,stage info update ;">
+      <created>1413286139105</created>
+      <updated>1413286139105</updated>
+    </task>
+    <task id="LOCAL-00225" summary="1,stage info update ;">
+      <created>1413290255104</created>
+      <updated>1413290255104</updated>
+    </task>
+    <task id="LOCAL-00226" summary="1,EquipMaxIndex plus;">
+      <created>1413338942166</created>
+      <updated>1413338942166</updated>
+    </task>
+    <task id="LOCAL-00227" summary="1,restruct plus;">
+      <created>1413339495102</created>
+      <updated>1413339495102</updated>
+    </task>
+    <task id="LOCAL-00228" summary="1,back pack screen jsp modify;">
+      <created>1413340630102</created>
+      <updated>1413340630102</updated>
+    </task>
+    <task id="LOCAL-00229" summary="1,restruct plus;">
+      <created>1413342166102</created>
+      <updated>1413342166102</updated>
+    </task>
+    <task id="LOCAL-00230" summary="1,back pack screen jsp modify;">
+      <created>1413343002104</created>
+      <updated>1413343002104</updated>
+    </task>
+    <task id="LOCAL-00231" summary="1,back pack screen jsp modify;">
+      <created>1413347946104</created>
+      <updated>1413347946104</updated>
+    </task>
+    <task id="LOCAL-00232" summary="1,back pack screen jsp modify;">
+      <created>1413351881102</created>
+      <updated>1413351881102</updated>
+    </task>
+    <task id="LOCAL-00233" summary="1,hero data modify;">
+      <created>1413352720104</created>
+      <updated>1413352720104</updated>
+    </task>
+    <task id="LOCAL-00234" summary="1,team screen jsp modify;">
+      <created>1413361866104</created>
+      <updated>1413361866104</updated>
+    </task>
+    <task id="LOCAL-00235" summary="1,team screen jsp modify;">
+      <created>1413364265104</created>
+      <updated>1413364265104</updated>
+    </task>
+    <task id="LOCAL-00236" summary="1,team screen jsp modify;">
+      <created>1413364863113</created>
+      <updated>1413364863113</updated>
+    </task>
+    <task id="LOCAL-00237" summary="1,team screen jsp modify;">
+      <created>1413365443104</created>
+      <updated>1413365443104</updated>
+    </task>
+    <task id="LOCAL-00238" summary="1,team screen jsp modify;">
+      <created>1413372416104</created>
+      <updated>1413372416104</updated>
+    </task>
+    <task id="LOCAL-00239" summary="1,team screen jsp modify;">
+      <created>1413372591104</created>
+      <updated>1413372591104</updated>
+    </task>
+    <task id="LOCAL-00240" summary="1, game screen jsp modify;">
+      <created>1413374803104</created>
+      <updated>1413374803104</updated>
+    </task>
+    <task id="LOCAL-00241" summary="1, index screen jsp modify;">
+      <created>1413375141105</created>
+      <updated>1413375141105</updated>
+    </task>
+    <task id="LOCAL-00242" summary="1, Team to team servlet modify;">
+      <created>1413376975104</created>
+      <updated>1413376975104</updated>
+    </task>
+    <task id="LOCAL-00243" summary="Revert: 1, Team to team servlet modify;">
+      <created>1413376992105</created>
+      <updated>1413376992105</updated>
+    </task>
+    <task id="LOCAL-00244" summary="Revert: Revert: 1, Team to team servlet modify;">
+      <created>1413377848104</created>
+      <updated>1413377848104</updated>
+    </task>
+    <task id="LOCAL-00245" summary="1,game screen modify;">
+      <created>1413422112151</created>
+      <updated>1413422112151</updated>
+    </task>
+    <task id="LOCAL-00246" summary="1,game screen modify;">
+      <created>1413423097126</created>
+      <updated>1413423097126</updated>
+    </task>
+    <task id="LOCAL-00247" summary="1,game screen modify;">
+      <created>1413423708102</created>
+      <updated>1413423708102</updated>
+    </task>
+    <task id="LOCAL-00248" summary="1,armor base screen modify;">
+      <created>1413427178127</created>
+      <updated>1413427178127</updated>
+    </task>
+    <task id="LOCAL-00249" summary="1,armor base screen modify;">
+      <created>1413427940104</created>
+      <updated>1413427940104</updated>
+    </task>
+    <task id="LOCAL-00250" summary="1,armor base screen modify;">
+      <created>1413428984104</created>
+      <updated>1413428984104</updated>
+    </task>
+    <task id="LOCAL-00251" summary="1,hero data op modify;">
+      <created>1413429298103</created>
+      <updated>1413429298103</updated>
+    </task>
+    <task id="LOCAL-00252" summary="1,team screen modify;">
+      <created>1413519205141</created>
+      <updated>1413519205141</updated>
+    </task>
+    <task id="LOCAL-00253" summary="1,team screen modify;">
+      <created>1413519399104</created>
+      <updated>1413519399104</updated>
+    </task>
+    <task id="LOCAL-00254" summary="1,team screen 对应group type modify;">
+      <created>1413520623104</created>
+      <updated>1413520623104</updated>
+    </task>
+    <task id="LOCAL-00255" summary="1,team screen 对应group type modify;">
+      <created>1413520988104</created>
+      <updated>1413520988104</updated>
+    </task>
+    <task id="LOCAL-00256" summary="1,team screen 对应up key pressed modify;">
+      <created>1413521957103</created>
+      <updated>1413521957104</updated>
+    </task>
+    <task id="LOCAL-00257" summary="1,armor base screen jsp modify;">
+      <created>1413524716104</created>
+      <updated>1413524716104</updated>
+    </task>
+    <task id="LOCAL-00258" summary="1,armor base screen jsp modify;">
+      <created>1413526611104</created>
+      <updated>1413526611104</updated>
+    </task>
+    <task id="LOCAL-00259" summary="1,armor base screen jsp modify;">
+      <created>1413527015104</created>
+      <updated>1413527015104</updated>
+    </task>
+    <task id="LOCAL-00260" summary="1,armor base screen jsp modify;">
+      <created>1413527058104</created>
+      <updated>1413527058104</updated>
+    </task>
+    <task id="LOCAL-00261" summary="1,积分 宝箱 modify;">
+      <created>1413527476104</created>
+      <updated>1413527476104</updated>
+    </task>
+    <task id="LOCAL-00262" summary="1,main screen 不同方向键的匹配 modify;">
+      <created>1413528410103</created>
+      <updated>1413528410103</updated>
+    </task>
+    <task id="LOCAL-00263" summary="1,game screen &amp; team to team servlet modify;">
+      <created>1413533140103</created>
+      <updated>1413533140104</updated>
+    </task>
+    <task id="LOCAL-00264" summary="1,竞技场增加;">
+      <created>1413534180102</created>
+      <updated>1413534180102</updated>
+    </task>
+    <task id="LOCAL-00265" summary="1,竞技场增加;">
+      <created>1413534860104</created>
+      <updated>1413534860104</updated>
+    </task>
+    <task id="LOCAL-00266" summary="1,竞技场增加;">
+      <created>1413534954103</created>
+      <updated>1413534954103</updated>
+    </task>
+    <task id="LOCAL-00267" summary="1,usertoken 信息添加到application中;">
+      <created>1413536463103</created>
+      <updated>1413536463104</updated>
+    </task>
+    <task id="LOCAL-00268" summary="1，team screen 界面提示选中至少三个角色； modify;">
+      <created>1413774976141</created>
+      <updated>1413774976141</updated>
+    </task>
+    <task id="LOCAL-00269" summary="1，team screen 界面提示选中至少三个角色； modify;">
+      <created>1413775352103</created>
+      <updated>1413775352104</updated>
+    </task>
+    <task id="LOCAL-00270" summary="1，team screen 界面提示选中至少三个角色； modify;">
+      <created>1413776025103</created>
+      <updated>1413776025104</updated>
+    </task>
+    <task id="LOCAL-00271" summary="1, Timer change;">
+      <created>1413776721102</created>
+      <updated>1413776721102</updated>
+    </task>
+    <task id="LOCAL-00272" summary="1，team screen 界面提示选中至少三个角色； modify;">
+      <created>1413778826103</created>
+      <updated>1413778826103</updated>
+    </task>
+    <task id="LOCAL-00273" summary="1, Timer change;">
+      <created>1413782613102</created>
+      <updated>1413782613102</updated>
+    </task>
+    <task id="LOCAL-00274" summary="1，team screen 界面提示选中至少三个角色； modify;">
+      <created>1413785010103</created>
+      <updated>1413785010103</updated>
+    </task>
+    <task id="LOCAL-00275" summary="1，team screen 界面提示选中至少三个角色； modify;">
+      <created>1413786778103</created>
+      <updated>1413786778103</updated>
+    </task>
+    <task id="LOCAL-00276" summary="1，team screen 界面提示选中至少三个角色； modify;">
+      <created>1413787913103</created>
+      <updated>1413787913104</updated>
+    </task>
+    <option name="localTasksCounter" value="277" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.83215797" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43441465" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39633286" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5655853" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.67277855" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3013006" sideWeight="0.16784203" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5655853" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="1，team screen 界面提示选中至少三个角色； modify;" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="1,stage info update ;" />
+    <MESSAGE value="1,EquipMaxIndex plus;" />
+    <MESSAGE value="1,restruct plus;" />
+    <MESSAGE value="1,back pack screen jsp modify;" />
+    <MESSAGE value="1,hero data modify;" />
+    <MESSAGE value="1,team screen jsp modify;" />
+    <MESSAGE value="1, game screen jsp modify;" />
+    <MESSAGE value="1, index screen jsp modify;" />
+    <MESSAGE value="1, Team to team servlet modify;" />
+    <MESSAGE value="Revert: 1, Team to team servlet modify;" />
+    <MESSAGE value="Revert: Revert: 1, Team to team servlet modify;" />
+    <MESSAGE value="1,game screen modify;" />
+    <MESSAGE value="1,armor base screen modify;" />
+    <MESSAGE value="1,hero data op modify;" />
+    <MESSAGE value="1,team screen modify;" />
+    <MESSAGE value="1,team screen 对应group type modify;" />
+    <MESSAGE value="1,team screen 对应up key pressed modify;" />
+    <MESSAGE value="1,armor base screen jsp modify;" />
+    <MESSAGE value="1,积分 宝箱 modify;" />
+    <MESSAGE value="1,main screen 不同方向键的匹配 modify;" />
+    <MESSAGE value="1,game screen &amp; team to team servlet modify;" />
+    <MESSAGE value="1,竞技场增加;" />
+    <MESSAGE value="1,usertoken 信息添加到application中;" />
+    <MESSAGE value="1, Timer change;" />
+    <MESSAGE value="1，team screen 界面提示选中至少三个角色； modify;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/armorbasescreen.jsp</url>
+          <line>108</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/hero.jsp</url>
+          <line>157</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/hero.jsp</url>
+          <line>175</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/the9InputScreen.jsp</url>
+          <line>86</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/the9InputScreen.jsp</url>
+          <line>349</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/the9InputScreen.jsp</url>
+          <line>471</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen.js</url>
+          <line>95</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen/gamescreen_follow_effect.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen/gamescreen_follow_effect.js</url>
+          <line>33</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen.js</url>
+          <line>36</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen.js</url>
+          <line>40</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen.js</url>
+          <line>38</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/armorbasescreen.jsp</url>
+          <line>246</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/armorbasescreen.jsp</url>
+          <line>162</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/armorbasescreen.jsp</url>
+          <line>166</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/armorbasescreen.jsp</url>
+          <line>317</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen.js</url>
+          <line>46</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen/effect_hp_buffer_buttom.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen/gamescreen_hero_effect.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/include/gamescreen/gamescreen_hero_effect.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/teamscreen.jsp</url>
+          <line>91</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/backpackscreen.jsp</url>
+          <line>145</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/gamescreen.jsp</url>
+          <line>183</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="92" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/UserTokenBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iptvNet/NetHander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="169" column="41" selection-start="4057" selection-end="4057" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/elements/EnemyTeam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="52" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/StageInfoModify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="43" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/PlayerInfoSave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/TeamScreenOp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="5" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/InfoTransition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="557" selection-end="557" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/HeroDataOp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="0" selection-start="3638" selection-end="3638" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/stage/popupbox.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="39" selection-start="4266" selection-end="4327" vertical-scroll-proportion="-6.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/gamescreen.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="389" column="25" selection-start="18305" selection-end="18305" vertical-scroll-proportion="0.6388889">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/stageMapScreen.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="417" column="32" selection-start="17918" selection-end="17958" vertical-scroll-proportion="-312.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/battleheart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="753" column="72" selection-start="30005" selection-end="30005" vertical-scroll-proportion="-438.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/teamscreen/teamscreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="90" selection-start="4673" selection-end="4673" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Styles/stageMapScreen/rowelements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="404" column="1" selection-start="5262" selection-end="5262" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/teamscreen.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="38" selection-start="3906" selection-end="3906" vertical-scroll-proportion="-414.0">
+          <folding>
+            <element signature="e#1221#1234#0" expanded="true" />
+            <element signature="e#1480#1493#0" expanded="true" />
+            <element signature="e#1553#1566#0" expanded="true" />
+            <element signature="e#1626#1639#0" expanded="true" />
+            <element signature="e#1696#1709#0" expanded="true" />
+            <element signature="e#2393#2406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>RussionChessServerJiangsuYouxian:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2873832" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (RussionChessServerJiangsuYouxian)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2873832" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RussionChessServerJiangsuYouxian</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2873832" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

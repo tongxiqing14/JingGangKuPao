@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RussionChessServerJiangsuYouxian:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/RussionChessServerJiangsuYouxian_war_exploded</output-path>
+    <root id="archive" name="RussionChessServerJiangsuYouxian_war exploded.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RussionChessServerJiangsuYouxian" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="RussionChessServerJiangsuYouxian/web/Web" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

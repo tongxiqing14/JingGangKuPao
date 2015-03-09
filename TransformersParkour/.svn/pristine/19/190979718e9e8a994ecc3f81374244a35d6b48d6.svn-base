@@ -1,0 +1,531 @@
+package iptvNet;
+
+
+
+import java.io.IOException;
+
+import javax.microedition.lcdui.Font;
+import javax.microedition.lcdui.Graphics;
+import javax.microedition.lcdui.Image;
+import javax.microedition.lcdui.game.Sprite;
+
+import common.Globe;
+import org.json.me.JSONException;
+
+
+public class The9InputScreen{
+	private static int SCREEN_W = 640;
+	private static int SCREEN_H = 530;
+	
+	private static int KEY_UP = -1;
+	private static int KEY_DOWN = -2;
+	private static int KEY_LEFT = -3;
+	private static int KEY_RIGHT = -4;
+	
+	private static int KEY_0 = 48;
+	private static int KEY_1 = 49;
+	private static int KEY_2 = 50;
+	private static int KEY_3 = 51;
+	private static int KEY_4 = 52;
+	private static int KEY_5 = 53;
+	private static int KEY_6 = 54;
+	private static int KEY_7 = 55;
+	private static int KEY_8 = 56;
+	private static int KEY_9 = 57;
+	private static int KEY_OK = -5;
+	private static int KEY_SOFT_R0 = -7;// right soft key
+	private static int KEY_SOFT_R1 = 7;// right soft key
+	private static int KEY_SOFT_R2 = -31;// right soft key
+	private static int KEY_SOFT_R3 = -8;// right soft key
+	
+
+	private static int INPUT_STRING_MAX_LENGHT=8;
+
+	private Image img[];
+	
+	private final int STAGE_INPUT_RECHARGE = 0;//充值界面
+	private final int STAGE_INPUT_PASSWORD = 1;//输入童锁界面
+	private int stage = STAGE_INPUT_RECHARGE;
+	
+	private NetHander netHander;
+	private boolean hasVerificationCode = false;
+	private boolean isPayEnd = false;
+	private boolean isPayOk = false;
+	private String inputString = "";
+	
+	private String question;
+	private String answer;
+	
+	/**
+	 * 道具价格
+	 */
+	private int price = 0;
+	/**
+	 * 需要充值
+	 */
+	private int rechargeNum = 0;
+	private String wareName = "";
+	
+	private String showInfo = "";
+	private boolean isShow = false;
+	private int showInfoIndex = 0;
+	private long showStartTime = 0;
+	
+	
+	/**
+	 * 选择的焦点
+	 */
+	private int selectIndex = 0;
+	private int selectIndexUD = 0;
+	
+	public The9InputScreen(NetHander nHander,int price,int rechargeNum,String wareName){
+		this.netHander = nHander;
+		this.price = price;
+		this.rechargeNum = rechargeNum;
+		this.wareName = wareName;
+		init();
+	}
+	
+	public void update(int keycode) {
+		// TODO Auto-generated method stub
+		if(isPayEnd){
+			return;
+		}
+		switch(stage){
+		case STAGE_INPUT_RECHARGE:
+			updateStageRecharge(keycode);
+			break;
+		case STAGE_INPUT_PASSWORD:
+			updateStagePassword(keycode);
+			break;
+		}
+		updateShowInfo(keycode);
+	}
+
+
+	public void draw(Graphics g) {
+		// TODO Auto-generated method stub
+		if(isPayEnd){
+			return;
+		}
+		g.drawImage(img[0], SCREEN_W, SCREEN_H>>1, Graphics.RIGHT|Graphics.VCENTER);
+//		g.drawRegion(img[0], 0,0,img[0].getWidth(),img[0].getHeight(),
+//				2,SCREEN_W>>1, SCREEN_H>>1, Graphics.LEFT|Graphics.VCENTER);
+		switch(stage){
+		case STAGE_INPUT_RECHARGE:
+			drawRecharge(g);
+			break;
+		case STAGE_INPUT_PASSWORD:
+			drawPassword(g);
+			break;
+		}
+		drawShowInfo(g);
+	}
+	
+	private void setPayEnd(boolean isEnd){
+		isPayEnd = isEnd;
+		clear();
+	}
+	
+	private void setPayOK(boolean isOk){
+		isPayOk = isOk;
+	}
+	
+	private void clear() {
+		// TODO Auto-generated method stub
+		if(img!=null){
+			for(int i = 0;i<img.length;i++){
+				img[i] = null;
+			}
+			img = null;
+		}
+	}
+
+	private void init() {
+			// TODO Auto-generated method stub
+			inputString = "";
+			hasVerificationCode = false;
+			setPayEnd(false);
+			setPayOK(false);
+			try {
+				hasVerificationCode = netHander.hasVerificationCode();
+				question = netHander.getQuestion();
+				answer = netHander.getAnswer();
+			} catch (JSONException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IptvNetException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			stage = STAGE_INPUT_RECHARGE;
+//			if(hasVerificationCode){
+//				selectIndexUD = 0;
+//			}else{
+				selectIndexUD = 1;
+				selectIndex = 1;
+//			}
+			img = new Image[6];
+			try {
+				img[0] = Image.createImage("/the9Input/bg.jpg");
+				img[1] = Image.createImage("/the9Input/4.png");
+//				img[2] = Image.createImage("/the9Input/5.png");
+//				img[3] = Image.createImage("/the9Input/sr.png");
+//				img[4] = Image.createImage("/the9Input/2.png");
+				img[5] = Image.createImage("/the9Input/7.jpg");
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+	//		hasVerificationCode = false;
+		}
+
+	private void updateStageRecharge(int keycode){
+		if(isShow){
+			return;
+		}
+		if(keycode==KEY_LEFT){
+			if(selectIndexUD==1){
+				selectIndex--;
+			}
+			
+		}else if(keycode==KEY_RIGHT){
+			if(selectIndexUD==1){
+				selectIndex++;
+			}
+		}else if(keycode==KEY_UP){
+			if(hasVerificationCode){
+				if(selectIndexUD==1){
+					selectIndexUD--;
+				}
+			}
+		}else if(keycode==KEY_DOWN){
+			if(hasVerificationCode){
+				if(selectIndexUD==0){
+					selectIndexUD++;
+				}
+			}
+		}
+		selectIndex = (selectIndex+2)%2;
+		if(selectIndexUD==0){
+			if(hasVerificationCode){
+				int keyTemp[] = {KEY_0,KEY_1,KEY_2,KEY_3,KEY_4,KEY_5,KEY_6,KEY_7,KEY_8,KEY_9};
+				for(int i = 0;i<10;i++){
+					if(keycode==keyTemp[i]){
+						if(inputString.length()<INPUT_STRING_MAX_LENGHT){
+							inputString+=(i+"");
+						}
+						break;
+					}
+				}
+			}
+			if(keycode==KEY_OK){
+				if(hasVerificationCode){
+					if(inputString.equals(answer)){
+						inputString = "";//第一次调用,password为空，如果成功，表示没有童锁
+						payPassWord();
+					}else{
+						setShow("输入不正确，请重新输入");
+					}
+				}else{
+					payPassWord();
+				}
+			}
+		}
+		
+		if(keycode==KEY_OK){
+			if(selectIndexUD==1){
+				if(selectIndex==0){
+					if(hasVerificationCode){
+						if(inputString.equals(answer)){
+							inputString = "";//第一次调用,password为空，如果成功，表示没有童锁
+							payPassWord();
+						}else{
+							setShow("输入不正确，请重新输入");
+						}
+					}else{
+						payPassWord();
+					}
+				}else if(selectIndex==1){
+					setPayEnd(true);
+					setPayOK(false);
+				}
+			}
+		}else if(keycode==KEY_SOFT_R0||keycode==KEY_SOFT_R1||keycode==KEY_SOFT_R2||keycode==KEY_SOFT_R3){
+			if(selectIndexUD==0){
+				if(hasVerificationCode){//如果有验证码
+					if(inputString.length()>0){
+						inputString = inputString.substring(0, inputString.length()-1);
+					}
+				}
+			}
+		}
+	}
+
+	private void updateStagePassword(int keycode){
+		if(isShow){
+			return;
+		}
+		if(keycode==KEY_LEFT){
+//			if(selectIndexUD==1){
+				selectIndex--;
+//			}
+			
+		}else if(keycode==KEY_RIGHT){
+//			if(selectIndexUD==1){
+				selectIndex++;
+//			}
+		}else if(keycode==KEY_UP){
+			if(selectIndexUD==1){
+				selectIndexUD--;
+			}
+		}else if(keycode==KEY_DOWN){
+			if(selectIndexUD==0){
+				selectIndexUD++;
+			}
+		}
+		selectIndex = (selectIndex+2)%2;
+//		if(selectIndexUD==0){
+			int keyTemp[] = {KEY_0,KEY_1,KEY_2,KEY_3,KEY_4,KEY_5,KEY_6,KEY_7,KEY_8,KEY_9};
+			for(int i = 0;i<10;i++){
+				if(keycode==keyTemp[i]){
+					if(inputString.length()<INPUT_STRING_MAX_LENGHT){
+						inputString+=(i+"");
+					}
+					break;
+				}
+			}
+//			if(keycode==KEY_OK){
+//				int temp = payPassWord();
+//				if(temp==1){
+//					setShow("密码输入有误，请重新输入");
+//				}
+//			}
+//		}
+		
+		if(keycode==KEY_OK){
+//			if(selectIndexUD==1){
+				if(selectIndex==0){
+					int temp = payPassWord();
+					if(temp==1){
+						setShow("密码输入有误，请重新输入");
+					}
+				}else if(selectIndex==1){
+					setPayEnd(true);
+					setPayOK(false);
+				}
+//			}
+		}else if(keycode==KEY_SOFT_R0||keycode==KEY_SOFT_R1||keycode==KEY_SOFT_R2||keycode==KEY_SOFT_R3){
+			if(selectIndexUD==0){
+				if(inputString.length()>0){
+					inputString = inputString.substring(0, inputString.length()-1);
+				}
+			}
+		}
+		
+	}
+
+	private void drawShowInfo(Graphics g){
+		if(isShow){
+			g.drawImage(img[5], SCREEN_W>>1, SCREEN_H>>1, Graphics.HCENTER|Graphics.VCENTER);
+		}
+	}
+	
+	private void setStagePassword(){
+		stage = STAGE_INPUT_PASSWORD;
+		if(img==null){
+			img = new Image[5];
+		}
+		
+		try {
+            img[0] = Image.createImage("/the9Input/bg2.jpg");
+//			img[1] = Image.createImage("/the9Input/3.png");
+			img[2] = Image.createImage("/the9Input/btn1.png");
+			img[3] = Image.createImage("/the9Input/btn2.png");
+//			img[4] = Image.createImage("/the9Input/2.png");
+			img[5] = Image.createImage("/the9Input/7.jpg");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		selectIndex = 0;
+		selectIndexUD = 0;
+		inputString = "";
+	}
+	
+	private void setShow(String str){
+		isShow = true;
+		showInfo = str;
+		showInfoIndex = 0;
+		showStartTime = System.currentTimeMillis();
+	}
+	
+	private void updateShowInfo(int keycode){
+		if(isShow){
+			showInfoIndex++;
+			if(showInfoIndex==40||(showInfoIndex>10&&keycode!=0)||(System.currentTimeMillis()-showStartTime>500&&keycode!=0)){
+				isShow = false;
+				showInfoIndex = 0;
+				inputString = "";
+			}
+		}
+	}
+
+	
+	private void drawPassword(Graphics g){
+		
+		int startY = SCREEN_H/2;
+//		g.drawImage(img[1], SCREEN_W>>1, startY-60, Graphics.HCENTER|Graphics.BOTTOM);
+		g.drawImage(img[2], 235, 410, Graphics.HCENTER|Graphics.BOTTOM);
+		g.drawImage(img[3], 388, 410, Graphics.HCENTER|Graphics.BOTTOM);
+		g.setFont(Font.getFont(0, 1, 16));
+		g.setColor(0x000000);
+        g.setFont(Globe.BigBoldFont);
+//        g.setColor(0xffffff);
+		String temp = "";
+		for(int i = 0;i<inputString.length();i++){
+			temp+="*";
+		}
+		g.drawString(temp, 100, 215,  Graphics.LEFT|Graphics.BOTTOM);
+//		g.drawImage(img[4], SCREEN_W>>1, startY+100, Graphics.TOP|Graphics.HCENTER);
+		g.setColor(0xffff00);
+        g.setFont(Globe.defaultFont);
+		
+		int w = 150;
+		int h = 60;
+        if(selectIndex==0){
+            g.drawImage(img[1], 235, 420, Graphics.HCENTER|Graphics.BOTTOM);
+//			g.drawRect((SCREEN_W>>1)-112-1, startY+43-h/2-1, w+2+75, h+2);
+//			g.drawRect((SCREEN_W>>1)-112+1, startY+43-h/2+1, w-2+75, h-2);
+//			g.drawRect((SCREEN_W>>1)-112, startY+43-h/2, w+75, h);
+		}else{
+            g.drawImage(img[1], 388, 420, Graphics.HCENTER|Graphics.BOTTOM);
+//			g.drawRect((SCREEN_W>>1)-120-w/2+(selectIndex*240)-1, startY+122-h/2-1, w+2, h+2);
+//			g.drawRect((SCREEN_W>>1)-120-w/2+(selectIndex*240)+1, startY+122-h/2+1, w-2, h-2);
+//			g.drawRect((SCREEN_W>>1)-120-w/2+(selectIndex*240), startY+122-h/2, w, h);
+		}
+	}
+	
+	private void drawRecharge(Graphics g){
+		int startY = SCREEN_H/2;
+
+		g.setFont(Font.getFont(0, 1, 16));
+		g.setColor(0x974b1a);
+//		g.drawLine(0, startY-120, 640, startY-120);
+		g.drawString(""+rechargeNum, (SCREEN_W>>1)-70, startY-120, Graphics.HCENTER|Graphics.TOP);
+		g.drawString(""+rechargeNum, (SCREEN_W>>1)-145, startY-70, Graphics.HCENTER|Graphics.TOP);
+		if(hasVerificationCode){
+			g.drawImage(img[2], SCREEN_W>>1, startY, Graphics.HCENTER|Graphics.BOTTOM);
+			g.drawImage(img[3], (SCREEN_W>>1)-55, startY+20, Graphics.TOP|Graphics.LEFT);
+			g.setColor(0x000000);
+//			g.drawLine(0, startY+62, 640, startY+62);
+			g.drawString(""+question, (SCREEN_W>>1)-60, startY+62, Graphics.BOTTOM|Graphics.RIGHT);
+			g.drawString(""+inputString,  (SCREEN_W>>1)-50, startY+62, Graphics.BOTTOM|Graphics.LEFT);
+		}
+//		g.drawImage(img[4], SCREEN_W>>1, startY+100, Graphics.TOP|Graphics.HCENTER);
+		g.setColor(0xffff00);
+		int w = 150;
+		int h = 60;
+		if(selectIndex==0){
+            g.drawImage(img[1], 235, 420, Graphics.HCENTER|Graphics.BOTTOM);
+//			g.drawRect((SCREEN_W>>1)-60-1, startY+43-h/2-1, w+2+75, h+2);
+//			g.drawRect((SCREEN_W>>1)-60+1, startY+43-h/2+1, w-2+75, h-2);
+//			g.drawRect((SCREEN_W>>1)-60, startY+43-h/2, w+75, h);
+		}else{
+            g.drawImage(img[1], 388, 420, Graphics.HCENTER|Graphics.BOTTOM);
+//			g.drawRect((SCREEN_W>>1)-120-w/2+(selectIndex*240)-1, startY+122-h/2-1, w+2, h+2);
+//			g.drawRect((SCREEN_W>>1)-120-w/2+(selectIndex*240)+1, startY+122-h/2+1, w-2, h-2);
+//			g.drawRect((SCREEN_W>>1)-120-w/2+(selectIndex*240), startY+122-h/2, w, h);
+		}
+	}
+	
+	private int payPassWord(){
+		int ret = 2;
+		try {
+			ret = netHander.topupAndConsumeMoney(price, wareName, inputString);
+			if(ret==0){
+				setPayEnd(true);
+				setPayOK(true);
+			}else if(ret==1){
+				setStagePassword();
+			}else if(ret==2){
+				setPayEnd(true);
+				setPayOK(false);
+			}
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			setPayEnd(true);
+			setPayOK(false);
+			e.printStackTrace();
+		} catch (IptvNetException e) {
+			// TODO Auto-generated catch block
+			setPayEnd(true);
+			setPayOK(false);
+			e.printStackTrace();
+		}
+		return ret;
+	}
+	
+	/**
+	 * 
+	 * @return true为支付成功,flase为支付失败
+	 */
+	public boolean isPayOk(){
+		return isPayOk;
+	}
+	
+	/**
+	 * 
+	 * @return true为验证码也童锁支付过程完成，false为还未完成
+	 */
+	public boolean isPayEnd(){
+		return isPayEnd;
+	}
+
+	
+	/**
+	 * 此接口预留,默认值是640*530,如果界面大小不是这个尺寸，可以调用这个方法修改
+	 * @param w
+	 * @param h
+	 */
+	public static void setScreenWidthAndHeight(int w,int h){
+		SCREEN_W = w;
+		SCREEN_H = h;
+	}
+	
+	/**
+	 *  此接口预留,设置按键键值（现有机顶盒的键值都已经设置好了，此接口预留）
+	 * @param key 这里面元素是新分配的简直，顺序分别是
+	 * 上，下，左，右，数字键0-9，确认键，返回键1，返回键2,返回键3,返回键4
+	 */
+	public static void setKeyCode(int[]key){
+		KEY_UP = key[0];
+		KEY_DOWN = key[1];
+		KEY_LEFT = key[2];
+		KEY_RIGHT = key[3];
+		KEY_0 = key[4];
+		KEY_1 = key[5];
+		KEY_2 = key[6];
+		KEY_3 = key[7];
+		KEY_4 = key[8];
+		KEY_5 = key[9];
+		KEY_6 = key[10];
+		KEY_7 = key[11];
+		KEY_8 = key[12];
+		KEY_9 = key[13];
+		KEY_OK = key[14];
+		KEY_SOFT_R0 = key[15];
+		KEY_SOFT_R1 = key[16];
+		KEY_SOFT_R2 = key[17];
+		KEY_SOFT_R3 = key[18];
+	}
+	
+	/**
+	 * 此接口预留，默认值是8位，调用此方法可以修改输入字符串的最大长度
+	 * @param lenght 要修改的字符串输入长度（默认值是8位）
+	 */
+	public static void setInputStringMaxLength(int lenght){
+		INPUT_STRING_MAX_LENGHT = lenght;
+	}
+	
+}

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: the9
+Ant-Version: Apache Ant 1.7.1
+MIDlet-Version: 1.0
+Device: IPTV 2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: LittleWitchParkour, icon.png, Entry.LWGameMidlet
+Created-By: 17.0-b17 (Sun Microsystems Inc.)
+MIDlet-Icon: icon.png
+MIDlet-Name: LittleWitchParkour
+MIDlet-Description: game for LittleWitchParkour.
+MicroEdition-Profile: MIDP-2.0
+

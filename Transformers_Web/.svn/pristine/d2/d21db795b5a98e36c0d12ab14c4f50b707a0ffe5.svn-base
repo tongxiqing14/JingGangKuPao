@@ -1,0 +1,11 @@
+MIDlet-Jar-URL: HouseBroom.jar
+MIDlet-Jar-Size: 2075446
+MIDlet-Name: HouseBroom
+MIDlet-Vendor: the9
+MIDlet-1: HouseBroom, icon.png, Entry.LWGameMidlet
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Description: game for HouseBroom.
+MIDlet-Icon: icon.png
+Device: IPTV 2.0
