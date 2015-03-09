@@ -22,10 +22,16 @@ public class ConfirmScreen extends Screen {
 //    private Image commonImage;
     private Image bgimage,indexImage,bgimageReturn;
     private Image[] images;
+    private Image bgImg;
+    private Image successImg;
+    private Image confirmImg;
     private int selectIndex = 0;
     private int indexFrame = 0;
     private int heroId = 0;
     The9InputCanvas tic;
+
+    private static int SCREEN_W = 640;
+    private static int SCREEN_H = 530;
 
     public String[] wareName={
             "",
@@ -99,7 +105,18 @@ public class ConfirmScreen extends Screen {
             GameVariables.isTrainning = false;
             return;
         }
-        if (confirmStage == 0) {
+
+        if(returnFromThe9){
+            if (confirmStage == 2) {
+                g.drawImage(bgimageReturn, Globe.SW >> 1, Globe.SH >> 1, Graphics.HCENTER|Graphics.VCENTER);
+                g.drawImage(images[1==selectIndex?3:2], 235, 300, 20);
+            }else {
+                g.drawImage(bgImg, SCREEN_W>>1, SCREEN_H>>1, Graphics.RIGHT|Graphics.VCENTER);
+                g.drawRegion(bgImg, 0,0,bgImg.getWidth(),bgImg.getHeight(),
+                        2,SCREEN_W>>1, SCREEN_H>>1, Graphics.LEFT|Graphics.VCENTER);
+            }
+
+        }else if (confirmStage == 0) {
             g.drawImage(bgimage, Globe.SW >> 1, Globe.SH >> 1, Graphics.HCENTER|Graphics.VCENTER);
             g.drawImage(images[0==selectIndex?1:0], 370, 300, 20);
             g.drawImage(images[1==selectIndex?3:2], 170, 300, 20);
@@ -126,10 +143,24 @@ public class ConfirmScreen extends Screen {
                 g.drawString("余额："+ Globe.token+"代币", 220, 148 + font_height * 2, Graphics.TOP|Graphics.LEFT);
             }
         } else if (confirmStage == 1) {
-            g.drawString("消费成功！", 260, 180 + font_height, Graphics.TOP|Graphics.LEFT);
+            if(returnFromThe9){
+                g.drawImage(successImg, 235, 200, Graphics.HCENTER|Graphics.BOTTOM);
+                g.drawString(Globe.needMoreToken+"", 320, 150 + font_height * 2, Graphics.TOP|Graphics.LEFT);
+                g.drawString(Globe.needMoreToken+"", 400, 150 + font_height * 2, Graphics.TOP|Graphics.LEFT);
+                g.drawImage(confirmImg, 330, 400, Graphics.HCENTER|Graphics.BOTTOM);
+            }else {
+                g.drawString("消费成功！", 260, 180 + font_height, Graphics.TOP|Graphics.LEFT);
+            }
+
         } else if (confirmStage == 2) {
+
+            if(returnFromThe9){
+                g.drawString("消费失败！", 260, 180 + font_height, Graphics.TOP | Graphics.LEFT);
+            }else {
+                g.drawString("消费失败！", 260, 180 + font_height, Graphics.TOP|Graphics.LEFT);
+            }
             System.out.println("stage ========= 2");
-            g.drawString("消费失败！", 260, 180 + font_height, Graphics.TOP|Graphics.LEFT);
+
         }
         /*if(returnScreen.getClass().equals(GamingScreen.class)){
             if(GamingScreen.confirmIndex==1){//冲技能
@@ -158,6 +189,9 @@ public class ConfirmScreen extends Screen {
 //	    indexImage = Globe.download.creatImage("success/index.png");
         indexImage = Globe.getImage("success/index.jpg");
         images = new Image[4];
+        bgImg = Globe.getImage("the9Input/bg.jpg");
+        successImg = Globe.getImage("the9Input/9.png");
+        confirmImg = Globe.getImage("the9Input/2.png");
         for(int i = 0; i < images.length;i++){
             images[i] = Globe.getImage("confirm/btn"+i+".png");
         }
@@ -572,10 +606,12 @@ public class ConfirmScreen extends Screen {
     }
 
     private boolean buyingSuccessMark=false;
+    private boolean returnFromThe9 = false;
     The9InputScreen tis;
     private void topUp(){
         if (Globe.isAutoTopUp && Globe.needMoreToken>0) {
             System.out.println("-------------000");
+            returnFromThe9 = true;
             tic=new The9InputCanvas(LWGameCanvas.rmidlet,NetInfo.netHander,itemPrice[buyIndex],Globe.needMoreToken,wareName[buyIndex]);
             tic.start();
             if(tic.isPayOK()){

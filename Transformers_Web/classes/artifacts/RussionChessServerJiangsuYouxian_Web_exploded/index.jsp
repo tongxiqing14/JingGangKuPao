@@ -90,8 +90,8 @@
     <object id="j2meapp" classid="ipanel:j2me-midp2" width="640" height="530">
         <param name="-Xkeypass" value="true" />
         <param name="bgcolor" value="#000000" />
-        <param name="jad" value="CP901002/HouseBroom.jad" />
-        <param name="jar" value="CP901002/HouseBroom.jar" />
+        <param name="jad" value="CP901003/HouseBroom.jad" />
+        <param name="jar" value="CP901003/HouseBroom.jar" />
         <param name="J2MEVersion" value=" MIDP 2.0,CLDC 1.1" />
         <param name="ServerURL" value="<%=ServerURL%>" />
         <param name="Account" value="<%=UserID%>" />

@@ -166,14 +166,15 @@ public class The9InputScreen {
                     selectIndex = 1;
                 }
 //			}
-			img = new Image[6];
+			img = new Image[7];
 			try {
 				img[0] = Image.createImage("/the9Input/bg.jpg");
 				img[1] = Image.createImage("/the9Input/4.png");
 				img[2] = Image.createImage("/the9Input/5.png");
 				img[3] = Image.createImage("/the9Input/sr.png");
-				img[4] = Image.createImage("/the9Input/2.png");
+				img[4] = Image.createImage("/the9Input/2_1.png");
 				img[5] = Image.createImage("/the9Input/7.png");
+                img[6] = Image.createImage("/the9Input/2_2.png");
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -335,7 +336,7 @@ public class The9InputScreen {
 	private void setStagePassword(){
 		stage = STAGE_INPUT_PASSWORD;
 		if(img==null){
-			img = new Image[5];
+			img = new Image[7];
 			try {
 				img[0] = Image.createImage("/the9Input/bg.jpg");
 			} catch (IOException e) {
@@ -348,8 +349,9 @@ public class The9InputScreen {
 			img[1] = Image.createImage("/the9Input/3.png");
 			img[2] = Image.createImage("/the9Input/1.png");
 			img[3] = Image.createImage("/the9Input/sr.png");
-			img[4] = Image.createImage("/the9Input/2.png");
+			img[4] = Image.createImage("/the9Input/2_1.png");
 			img[5] = Image.createImage("/the9Input/7.png");
+            img[6] = Image.createImage("/the9Input/2_2.png");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -392,7 +394,8 @@ public class The9InputScreen {
 			temp+="*";
 		}
 		g.drawString(temp, SCREEN_W>>1, startY+68,  Graphics.BOTTOM|Graphics.HCENTER);
-		g.drawImage(img[4], SCREEN_W>>1, startY+100, Graphics.TOP|Graphics.HCENTER);
+		g.drawImage(img[4], (SCREEN_W>>1)-100, startY+100, Graphics.TOP|Graphics.HCENTER);
+        g.drawImage(img[6], (SCREEN_W>>1)+150, startY+100, Graphics.TOP|Graphics.HCENTER);
 		g.setColor(0xffff00);
 		
 		int w = 150;
@@ -410,12 +413,12 @@ public class The9InputScreen {
 	
 	private void drawRecharge(Graphics g){
 		int startY = SCREEN_H/2;
-		g.drawImage(img[1], SCREEN_W>>1, startY-40, Graphics.HCENTER|Graphics.BOTTOM);
+		g.drawImage(img[1], SCREEN_W>>1, startY+60, Graphics.HCENTER|Graphics.BOTTOM);
 		g.setFont(Font.getFont(0, 1, 16));
 		g.setColor(0x000000);
 //		g.drawLine(0, startY-120, 640, startY-120);
-		g.drawString(""+rechargeNum, (SCREEN_W>>1)+30, startY-130, Graphics.HCENTER|Graphics.TOP);
-		g.drawString(""+rechargeNum, (SCREEN_W>>1)+35, startY-98, Graphics.HCENTER|Graphics.TOP);
+		g.drawString(""+rechargeNum, (SCREEN_W>>1)+90, startY-160, Graphics.HCENTER|Graphics.TOP);
+//		g.drawString(""+rechargeNum, (SCREEN_W>>1)+35, startY-98, Graphics.HCENTER|Graphics.TOP);
 		if(hasVerificationCode){
 			g.drawImage(img[2], SCREEN_W>>1, startY, Graphics.HCENTER|Graphics.BOTTOM);
 			g.drawImage(img[3], (SCREEN_W>>1)-55, startY+20, Graphics.TOP|Graphics.LEFT);
@@ -424,7 +427,8 @@ public class The9InputScreen {
 			g.drawString(""+question, (SCREEN_W>>1)-60, startY+62, Graphics.BOTTOM|Graphics.RIGHT);
 			g.drawString(""+inputString,  (SCREEN_W>>1)-50, startY+62, Graphics.BOTTOM|Graphics.LEFT);
 		}
-		g.drawImage(img[4], SCREEN_W>>1, startY+100, Graphics.TOP|Graphics.HCENTER);
+		g.drawImage(img[4], (SCREEN_W>>1)-100, startY+100, Graphics.TOP|Graphics.HCENTER);
+        g.drawImage(img[6], (SCREEN_W>>1)+150, startY+100, Graphics.TOP|Graphics.HCENTER);
 		g.setColor(0xffff00);
 		int w = 150;
 		int h = 60;
