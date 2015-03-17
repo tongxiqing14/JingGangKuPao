@@ -5,7 +5,8 @@
     StringBuffer requestURL = request.getRequestURL();
     String host = requestURL.substring(0,requestURL.lastIndexOf(servletPath));
 
-    String ServerURL = application.getInitParameter("ServerURL");
+    String web_ServerURL = application.getInitParameter("web_ServerURL");
+    String java_ServerURL = application.getInitParameter("java_ServerURL");
     String UserID = request.getParameter("Account");
     String UserPassword = "1";
     String adAccount = request.getParameter("adAccount");
@@ -41,7 +42,7 @@
         session.setAttribute("UserToken",UserToken);
     }
 
-    NetHander netHander = new NetHander(ServerURL, UserID, ProductID, adAccount, UserToken);
+    NetHander netHander = new NetHander(web_ServerURL, UserID, ProductID, adAccount, UserToken);
 
     if(netHander.getGameData(-1)==null||!netHander.getGameData(-1).equals("init")){
         netHander.saveGameData("init", -1);
@@ -107,7 +108,7 @@
         <param name="jad" value="CP901003/HouseBroom.jad" />
         <param name="jar" value="CP901003/HouseBroom.jar" />
         <param name="J2MEVersion" value=" MIDP 2.0,CLDC 1.1" />
-        <param name="ServerURL" value="<%=ServerURL%>" />
+        <param name="ServerURL" value="<%=java_ServerURL%>" />
         <param name="Account" value="<%=UserID%>" />
         <param name="ADAccount" value="<%=adAccount%>" />
         <param name="GameID" value="<%=ProductID%>" />
